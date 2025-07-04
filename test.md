@@ -1,6 +1,6 @@
 | BACK TO INDEX LIST: Indexes |  | SOURCE (NOT INCLUDED ON GITHUB) |
 | --- | --- | --- |
-| Summary | Indexes the metadata of all kinds of academically relevant resources ? journals, institutional repositories, digital collections etc. ? which provide an OAI interface and use OAI-PMH for providing their contents. | https://en.wikipedia.org/wiki/BASE_(search_engine) |
+| Summary test | Indexes the metadata of all kinds of academically relevant resources ? journals, institutional repositories, digital collections etc. ? which provide an OAI interface and use OAI-PMH for providing their contents. | https://en.wikipedia.org/wiki/BASE_(search_engine) |
 | SERVICE DESCRIPTION |  |  |
 | Name | BASE |  |
 | Website | https://www.base-search.net/ |  |
