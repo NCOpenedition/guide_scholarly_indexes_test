@@ -7,7 +7,7 @@
 | Owner | Bielefeld University |  |
 | Owner type | Public research organization |  |
 | Owner country | Germany |  |
-| Launch year | 2004 |  |
+| Launch year | 2013 |  |
 | Scope | Any |  |
 | Access for index users | Free |  |
 | Access for data providers | Free |  |
