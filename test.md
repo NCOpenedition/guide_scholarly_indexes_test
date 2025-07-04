@@ -68,7 +68,7 @@ Publisher
 Related Documents
 Content delimitation | https://www.base-search.net/about/en/faq_oai.php#chap04 |
 | Other requirements | None |  |
-| SEO/UX requirements | Not communicated |  |
+| SEO/UX requirements | communicated |  |
 | INFORMATION SOURCES |  |  |
 | Wikipedia | https://en.wikipedia.org/wiki/BASE_(search_engine)  |  |
 | Index web pages | https://www.base-search.net/about/en/index.php |  |
