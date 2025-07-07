@@ -38,8 +38,7 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 
 | Joining options | Two options: 1. Suggestion of an OAI-PMH repository via an online form on BASE website 2. Automated collection of OAI-PMH repository listed in directories |
 | :- | :- |
-| **Data collection process** | OAI-PMH automated harvesting
-With or without declaration of database manager to BASE (automated crawling) |
+| **Data collection process** | OAI-PMH automated harvesting With or without declaration of database manager to BASE (automated crawling) |
 | **Target provider type** | Database manager (OAI-PMH repository manager) |
 
 
