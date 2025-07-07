@@ -6,7 +6,7 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 
 ## SERVICE DESCRIPTION
 
-| Name || BASE |
+| Name | BASE |
 | --- | --- |
 | **Website** | [https://www.base-search.net/about/en/index.php](https://www.base-search.net/about/en/index.php) |
 | **Owner** | Bielefeld University |
