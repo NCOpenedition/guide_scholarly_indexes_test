@@ -55,20 +55,8 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 
 | Editorial Additional Specifications | None |
 | :- | :- |
-| **Recommended metadata** | Title
-Author
-Publication type
-Publication date
-Langage of the document
-Access and re-use rights
-Reference / Citation |
-| **Optional metadata** | Other parties involved in the publication
-File Format
-Description
-Keywords
-Publisher
-Related Documents
-Content delimitation |
+| **Recommended metadata** | Title Author Publication type Publication date Langage of the document Access and re-use rights Reference / Citation |
+| **Optional metadata** | Other parties involved in the publication File Format Description Keywords Publisher Related Documents Content delimitation |
 | **Other requirments** | None |
 | **SEO/UX requirements** | Not communicated |
 
