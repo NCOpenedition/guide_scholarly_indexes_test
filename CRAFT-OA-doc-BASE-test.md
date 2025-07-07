@@ -7,7 +7,7 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 ## SERVICE DESCRIPTION
 
 | Name | BASE |
-| - | - |
+| :- | :- |
 | **Website** | [https://www.base-search.net/about/en/index.php](https://www.base-search.net/about/en/index.php) |
 | **Owner** | Bielefeld University |
 | **Owner type** | Public research organization |
@@ -22,7 +22,8 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 
 ## SERVICE PROVISION
 
-| **Content type** | Scholarly content only (checked by BASE) |
+| Content type | Scholarly content only (checked by BASE) |
+| :- | :- |
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Article and similar |
@@ -35,9 +36,8 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 
 ## INCLUSION PROCESS
 
-| **Joining options** | Two options:
-1. Suggestion of an OAI-PMH repository via an online form on BASE website 
-2. Automated collection of OAI-PMH repository listed in directories |
+| Joining options | Two options: 1. Suggestion of an OAI-PMH repository via an online form on BASE website 2. Automated collection of OAI-PMH repository listed in directories |
+| :- | :- |
 | **Data collection process** | OAI-PMH automated harvesting
 With or without declaration of database manager to BASE (automated crawling) |
 | **Target provider type** | Database manager (OAI-PMH repository manager) |
@@ -45,7 +45,8 @@ With or without declaration of database manager to BASE (automated crawling) |
 
 ## MINIMUM REQUIREMENTS
 
-| **Editorial** | Some contents have to be OA (full texts free of charge for readers, without registration) |
+| Editorial | Some contents have to be OA (full texts free of charge for readers, without registration) |
+| :- | :- |
 | **Data file format** | Data not collected |
 | **Metadata standard** | Dublin Core |
 | **Metadata file format** | XML |
@@ -53,7 +54,8 @@ With or without declaration of database manager to BASE (automated crawling) |
 
 ## ADDITIONAL CRITERIA
 
-| **Editorial Additional Specifications** | None |
+| Editorial Additional Specifications | None |
+| :- | :- |
 | **Recommended metadata** | Title
 Author
 Publication type
