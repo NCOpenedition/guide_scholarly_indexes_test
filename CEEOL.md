@@ -11,7 +11,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | Owner | Central and Eastern European Online Library GmbH |  |
 | Owner type | Private company1 |  |
 | Owner country | Germany |  |
-| Launch year | 1998 |  |
+| Launch year | 1999 |  |
 | Scope | Social Science and Humanities |  |
 | Access for index users | Open and closed access | OA: https://www.ceeol.com/search/article-detail?id=106746 <br>RA: https://www.ceeol.com/search/article-detail?id=897925 |
 | Access for data providers | Subscription fees | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOL |
@@ -46,11 +46,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 
  ## MINIMUM REQUIREMENTS
  
-| Editorial | Geographic focus (Central, Eastern and Southeastern Europe)
-Subject areas (Social Science and Humanities)
-English Keywords
-English Summaries
-Author's institutional affiliation | https://www.ceeol.com/for-publishers-editors/faq/questions-answers  |
+| Editorial | Geographic focus (Central, Eastern and Southeastern Europe)<br>Subject areas (Social Science and Humanities)<br>English Keywords<br>English Summaries<br>Author's institutional affiliation | https://www.ceeol.com/for-publishers-editors/faq/questions-answers  |
 | :- | :- | :- |
 | Data file format | Content in PDF and cover page in JPEG | https://www.ceeol.com/for-publishers-editors/faq/questions-answers |
 | Metadata standard | MARC21 (inferred, no collection process described) |  |
