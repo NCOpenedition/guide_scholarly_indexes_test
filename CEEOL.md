@@ -1,17 +1,19 @@
-# CEEOL (Central and Eastern European Online Library)
+# CEEOL
 
 The Central and Eastern European Online Library (CEEOL) is a repository of full text indexed documents in the fields of Humanities and Social Science publications from and about Central and Eastern Europe.
 
 | BACK TO INDEX LIST: Indexes |  | SOURCE (NOT INCLUDED ON GITHUB) |
-| --- | --- | --- |
 | Summary | The Central and Eastern European Online Library (CEEOL) is a repository of full text indexed documents in the fields of Humanities and Social Science publications from and about Central and Eastern Europe. | https://en.wikipedia.org/wiki/Central_and_Eastern_European_Online_Library |
-| SERVICE DESCRIPTION |  |  |
-| Name | CEEOL (Central and Eastern European Online Library) |  |
+
+ ## SERVICE DESCRIPTION
+ 
+| Name | CEEOL (Central and Eastern European Online Library) |   |
+| :- | :- | :- |
 | Website | https://www.ceeol.com/ |  |
 | Owner | Central and Eastern European Online Library GmbH |  |
 | Owner type | Private company1 |  |
 | Owner country | Germany |  |
-| Launch year | 1999 |  |
+| Launch year | 1998 |  |
 | Scope | Social Science and Humanities |  |
 | Access for index users | Open and closed access | OA: https://www.ceeol.com/search/article-detail?id=106746 
 RA: https://www.ceeol.com/search/article-detail?id=897925 |
@@ -27,8 +29,11 @@ For individual users: https://www.ceeol.com/personal-user-account/new-to-CEEOL  
 https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal  
 https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-ebook 
 https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-for-participation-as-publisher  |  |
-| SERVICE PROVISION |  |  |
-| Service type | Selective bibliographic index and full text repository | https://en.wikipedia.org/wiki/Central_and_Eastern_European_Online_Library |
+
+ ## SERVICE PROVISION
+ 
+| Service type | Selective bibliographic index and full text repository | https://en.wikipedia.org/wiki/Central_and_Eastern_European_Online_Library  |
+| :- | :- | :- |
 | Content type | Journal articles, eBooks and Grey Literature | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/CEEOL-publishers |
 | Content language | Any language for the content; the titles, keywords and summaries have to be in English | https://www.ceeol.com/for-publishers-editors/faq/questions-answers |
 | Content geographical provenance | Central, East and Southeast Europe |  |
@@ -49,28 +54,40 @@ Journal articles, eBooks and Grey Literature items are available in 50+ language
 Fees required to provide journals and books as OA content (amount not communicated).
 Focus on articles from Central, East and Southeast Europe |  |
 | Additional services | None |  |
-| INCLUSION PROCESS |  |  |
-| Joining options | Completion of the online application form for journals or e-books and evaluation by the CEEOL?s publisher support team. https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal    |  |
+
+ ## INCLUSION PROCESS
+ 
+| Joining options | Completion of the online application form for journals or e-books and evaluation by the CEEOL?s publisher support team. https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal    |   |
+| :- | :- | :- |
 | Data collection process | Upon submission for journals and books |  |
 | Target provider type | Publishers |  |
-| MINIMUM REQUIREMENTS |  |  |
+
+ ## MINIMUM REQUIREMENTS
+ 
 | Editorial | Geographic focus (Central, Eastern and Southeastern Europe)
 Subject areas (Social Science and Humanities)
 English Keywords
 English Summaries
-Author's institutional affiliation | https://www.ceeol.com/for-publishers-editors/faq/questions-answers |
+Author's institutional affiliation | https://www.ceeol.com/for-publishers-editors/faq/questions-answers  |
+| :- | :- | :- |
 | Data file format | Content in PDF and cover page in JPEG | https://www.ceeol.com/for-publishers-editors/faq/questions-answers |
 | Metadata standard | MARC21 (inferred, no collection process described) |  |
 | Metadata file format | Not communicated |  |
 | Minimum metadata | Journal Title
 ISSN | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal |
-| ADDITIONAL CRITERIA |  |  |
-| Editorial Additional Specifications | None |  |
+
+ ## ADDITIONAL CRITERIA
+ 
+| Editorial Additional Specifications | None |   |
+| :- | :- | :- |
 | Recommended metadata | None |  |
 | Optional metadata | None |  |
 | Other requirements | None |  |
 | SEO/UX requirements | Not communicated |  |
-| INFORMATION SOURCES |  |  |
-| Wikipedia | https://en.wikipedia.org/wiki/Central_and_Eastern_European_Online_Library |  |
+
+ ## INFORMATION SOURCES
+ 
+| Wikipedia | https://en.wikipedia.org/wiki/Central_and_Eastern_European_Online_Library |   |
+| :- | :- | :- |
 | Index web pages | https://www.ceeol.com/ |  |
 | Index news page | None |  |
