@@ -1,17 +1,19 @@
-# BASE
+# test
 
 Indexes the metadata of all kinds of academically relevant resources ( journals, institutional repositories, digital collections etc. ) which provide an OAI interface and use OAI-PMH for providing their contents.
 
 | BACK TO INDEX LIST: Indexes |  | SOURCE (NOT INCLUDED ON GITHUB) |
-| --- | --- | --- |
 | Summary | Indexes the metadata of all kinds of academically relevant resources ( journals, institutional repositories, digital collections etc. ) which provide an OAI interface and use OAI-PMH for providing their contents. | https://en.wikipedia.org/wiki/BASE_(search_engine) |
-| SERVICE DESCRIPTION |  |  |
-| Name | BASE |  |
+
+ ## SERVICE DESCRIPTION
+ 
+| Name | BASE |   |
+| :- | :- | :- |
 | Website | https://www.base-search.net/ |  |
 | Owner | Bielefeld University |  |
 | Owner type | Public research organization |  |
 | Owner country | Germany |  |
-| Launch year | 2013 |  |
+| Launch year | 2014 |  |
 | Scope | Any |  |
 | Access for index users | Free |  |
 | Access for data providers | Free |  |
@@ -19,8 +21,11 @@ Indexes the metadata of all kinds of academically relevant resources ( journals,
 | Documentation: general | What is BASE: https://www.base-search.net/about/en/index.php |  |
 | Documentation: technical | Golden rules for repository managers: https://www.base-search.net/about/en/faq_oai.php |  |
 | Application form for providers | https://www.base-search.net/about/en/suggest.php  |  |
-| SERVICE PROVISION |  |  |
-| Service type | Automated aggregator with submission |  |
+
+ ## SERVICE PROVISION
+ 
+| Service type | Automated aggregator with submission |   |
+| :- | :- | :- |
 | Content type | Scholarly content only (checked by BASE) | https://www.base-search.net/about/en/faq.php#chap01 |
 | Content language | Any |  |
 | Content geographical provenance | Any |  |
@@ -42,21 +47,30 @@ Contact form available for specific questions |  |
 No apparent limitations in multilingual indexing (or only in latin alphabets?) |  |
 | Additional services | BASE API:
 http://oai.base-search.net/ |  |
-| INCLUSION PROCESS |  |  |
+
+ ## INCLUSION PROCESS
+ 
 | Joining options | Two options:
 1. Suggestion of an OAI-PMH repository via an online form on BASE website 
-2. Automated collection of OAI-PMH repository listed in directories | https://www.base-search.net/about/en/faq.php#chap06 |
+2. Automated collection of OAI-PMH repository listed in directories | https://www.base-search.net/about/en/faq.php#chap06  |
+| :- | :- | :- |
 | Data collection process | OAI-PMH automated harvesting
 With or without declaration of database manager to BASE (automated crawling) | https://www.base-search.net/about/en/faq.php#chap06 |
 | Target provider type | Database manager (OAI-PMH repository manager) | https://www.base-search.net/about/en/faq.php#chap06 |
-| MINIMUM REQUIREMENTS |  |  |
-| Editorial | Some contents have to be OA (full texts free of charge for readers, without registration) | https://www.base-search.net/about/en/faq.php#chap06 |
+
+ ## MINIMUM REQUIREMENTS
+ 
+| Editorial | Some contents have to be OA (full texts free of charge for readers, without registration) | https://www.base-search.net/about/en/faq.php#chap06  |
+| :- | :- | :- |
 | Data file format | Data not collected |  |
 | Metadata standard | Dublin Core |  |
 | Metadata file format | XML |  |
 | Minimum metadata | URL of the publication | https://www.base-search.net/about/en/faq_oai.php#chap04 |
-| ADDITIONAL CRITERIA |  |  |
-| Editorial Additional Specifications | None |  |
+
+ ## ADDITIONAL CRITERIA
+ 
+| Editorial Additional Specifications | None |   |
+| :- | :- | :- |
 | Recommended metadata | Title
 Author
 Publication type
@@ -73,7 +87,10 @@ Related Documents
 Content delimitation | https://www.base-search.net/about/en/faq_oai.php#chap04 |
 | Other requirements | None |  |
 | SEO/UX requirements | communicated |  |
-| INFORMATION SOURCES |  |  |
-| Wikipedia | https://en.wikipedia.org/wiki/BASE_(search_engine)  |  |
+
+ ## INFORMATION SOURCES
+ 
+| Wikipedia | https://en.wikipedia.org/wiki/BASE_(search_engine)  |   |
+| :- | :- | :- |
 | Index web pages | https://www.base-search.net/about/en/index.php |  |
 | Index news page | None |  |
