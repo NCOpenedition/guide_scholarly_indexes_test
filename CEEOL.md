@@ -2,8 +2,6 @@
 
 The Central and Eastern European Online Library (CEEOL) is a repository of full text indexed documents in the fields of Humanities and Social Science publications from and about Central and Eastern Europe.
 
-| BACK TO INDEX LIST: Indexes |  | SOURCE (NOT INCLUDED ON GITHUB) |
-| Summary | The Central and Eastern European Online Library (CEEOL) is a repository of full text indexed documents in the fields of Humanities and Social Science publications from and about Central and Eastern Europe. | https://en.wikipedia.org/wiki/Central_and_Eastern_European_Online_Library |
 
  ## SERVICE DESCRIPTION
  
@@ -13,7 +11,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | Owner | Central and Eastern European Online Library GmbH |  |
 | Owner type | Private company1 |  |
 | Owner country | Germany |  |
-| Launch year | 1998 |  |
+| Launch year | 1999 |  |
 | Scope | Social Science and Humanities |  |
 | Access for index users | Open and closed access | OA: https://www.ceeol.com/search/article-detail?id=106746 
 RA: https://www.ceeol.com/search/article-detail?id=897925 |
