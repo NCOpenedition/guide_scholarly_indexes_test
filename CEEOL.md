@@ -11,22 +11,14 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | Owner | Central and Eastern European Online Library GmbH |  |
 | Owner type | Private company1 |  |
 | Owner country | Germany |  |
-| Launch year | 1999 |  |
+| Launch year | 1998 |  |
 | Scope | Social Science and Humanities |  |
-| Access for index users | Open and closed access | OA: https://www.ceeol.com/search/article-detail?id=106746 
-RA: https://www.ceeol.com/search/article-detail?id=897925 |
+| Access for index users | Open and closed access | OA: https://www.ceeol.com/search/article-detail?id=106746 <br>RA: https://www.ceeol.com/search/article-detail?id=897925 |
 | Access for data providers | Subscription fees | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOL |
-| Number of indexed items | Articles: 973 653
-Journals: 2879 | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOLL |
-| Documentation: general | FAQs for librarians, publishers and individual users: https://www.ceeol.com/help/ 
-For publishers: https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOL 
-For librarians: https://www.ceeol.com/for-librarians/CEEOL-for-libraries/new-to-CEEOL 
-For individual users: https://www.ceeol.com/personal-user-account/new-to-CEEOL  |  |
+| Number of indexed items | Articles: 973 653<br>Journals: 2879 | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOLL |
+| Documentation: general | FAQs for librarians, publishers and individual users: https://www.ceeol.com/help/ <br>For publishers: https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOL <br>For librarians: https://www.ceeol.com/for-librarians/CEEOL-for-libraries/new-to-CEEOL <br>For individual users: https://www.ceeol.com/personal-user-account/new-to-CEEOL  |  |
 | Documentation: technical | None |  |
-| Application form for providers | Application forms:
-https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal  
-https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-ebook 
-https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-for-participation-as-publisher  |  |
+| Application form for providers | Application forms:<br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal  <br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-ebook <br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-for-participation-as-publisher  |  |
 
  ## SERVICE PROVISION
  
@@ -40,17 +32,9 @@ https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-for-part
 | Index sources | Over 1,000 publishing houses: https://www.ceeol.com/browse/browse-by-publishers | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/CEEOL-publishers |
 | Data collected | Full text and metadata | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOL |
 | Supported standard | MARC21 (inferred, no collection process described) |  |
-| User support | Email, FAQ and documentation
-For patrons of libraries and end users: user.support@ceeol.com  
-For subscribing institutions: subscriber.support@ceeol.com 
-For publishers: publisher.support@ceeol.com 
-For technichal help: technical.support@ceeol.com 
-For any other question: info@ceeol.com  |  |
+| User support | Email, FAQ and documentation<br>For patrons of libraries and end users: user.support@ceeol.com  <br>For subscribing institutions: subscriber.support@ceeol.com <br>For publishers: publisher.support@ceeol.com <br>For technichal help: technical.support@ceeol.com <br>For any other question: info@ceeol.com  |  |
 | Contact address for providers | publisher.support@ceeol.com |  |
-| Bibliodiversity support | Content development is clearly dedicated to all relevant SSH disciplines
-Journal articles, eBooks and Grey Literature items are available in 50+ languages, allowing access to the native language sources in one repository
-Fees required to provide journals and books as OA content (amount not communicated).
-Focus on articles from Central, East and Southeast Europe |  |
+| Bibliodiversity support | Content development is clearly dedicated to all relevant SSH disciplines<br>Journal articles, eBooks and Grey Literature items are available in 50+ languages, allowing access to the native language sources in one repository<br>Fees required to provide journals and books as OA content (amount not communicated).<br>Focus on articles from Central, East and Southeast Europe |  |
 | Additional services | None |  |
 
  ## INCLUSION PROCESS
@@ -71,8 +55,7 @@ Author's institutional affiliation | https://www.ceeol.com/for-publishers-editor
 | Data file format | Content in PDF and cover page in JPEG | https://www.ceeol.com/for-publishers-editors/faq/questions-answers |
 | Metadata standard | MARC21 (inferred, no collection process described) |  |
 | Metadata file format | Not communicated |  |
-| Minimum metadata | Journal Title
-ISSN | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal |
+| Minimum metadata | Journal Title<br>ISSN | https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal |
 
  ## ADDITIONAL CRITERIA
  
