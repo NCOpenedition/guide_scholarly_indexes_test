@@ -9,7 +9,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | :- | :- |
 | Website | https://www.ceeol.com/ |
 | Owner | Central and Eastern European Online Library GmbH |
-| Owner type | Private company1 |
+| Owner type | Private company |
 | Owner country | Germany |
 | Launch year | 1998 |
 | Scope | Social Science and Humanities |
