@@ -10,7 +10,7 @@ Indexes the metadata of all kinds of academically relevant resources ( journals,
 | Website | https://www.base-search.net/ |
 | Owner | Bielefeld University |
 | Owner type | Public research organization |
-| Owner country | Germany |
+| Owner country | France |
 | Launch year | 2012 |
 | Scope | Any |
 | Access for index users | Free |
