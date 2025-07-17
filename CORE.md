@@ -50,7 +50,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | :- | :- |
 | Data file format | No limitation, but only PDF can be displayed on CORE. |
 | Metadata standard | Dublin core, RIOXX |
-| Metadata file format | XML |
+| Metadata file format | XML <br>DublinCore |
 | Minimum metadata | Title<br>Author<br>Language<br>Publisher<br>Identifier<br>Acceptation date<br>Publication date |
 
  ## ADDITIONAL CRITERIA
