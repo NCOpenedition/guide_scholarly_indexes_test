@@ -29,9 +29,9 @@ Indexes the metadata of all kinds of academically relevant resources ( journals,
 | Indexing level for publications | Any |
 | Full text | Article and similar |
 | Index sources | Link to the full text when available |
-| #REF! | OAI-PMH individual repository<br>OpenArchives<br>ROAR<br>OpenDOAR<br>Some DSpace instances<br>Some OJS instances<br>Crossref |
+| Data collected | OAI-PMH individual repository<br>OpenArchives<br>ROAR<br>OpenDOAR<br>Some DSpace instances<br>Some OJS instances<br>Crossref |
 | Supported standard | Metadata |
-| #REF! | Dublin Core |
+| Bibliodiversity support | Dublin Core |
 | Additional services | Mostly online documentation and FAQ : https://www.base-search.net/about/en/faq.php <br>Contact form available for specific questions |
 
  ## INCLUSION PROCESS
