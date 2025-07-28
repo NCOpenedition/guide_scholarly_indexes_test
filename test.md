@@ -1,7 +1,5 @@
 # test
 
-Indexes the metadata of all kinds of academically relevant resources ( journals, institutional repositories, digital collections etc. ) which provide an OAI interface and use OAI-PMH for providing their contents.
-
 
  ## SERVICE DESCRIPTION
  
