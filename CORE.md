@@ -5,6 +5,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 
  ## SERVICE DESCRIPTION
  
+| Category | Description | 
 | Name | CORE  |
 | :- | :- |
 | Website | https://core.ac.uk/ |
@@ -21,6 +22,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 
  ## SERVICE PROVISION
  
+| Category | Description | 
 | Service type | Fully automated aggregator   |
 | :- | :- |
 | Content type | Research papers from data providers including institutional and subject repositories, preprint servers, and open access and hybrid journals, information about datasets and research software |
@@ -36,6 +38,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 
  ## INCLUSION PROCESS
  
+| Category | Description | 
 | Joining options | Automatic harvest from a list of aggregators: https://core.ac.uk/data-providers/?q=&size=10<br>Possibility to add a new data provider registration by completion of a form: https://core.ac.uk/benefits#join-core  |
 | :- | :- |
 | Data collection process | Metadata are collected upon submission by data providers and automatically identified and registered via OAI-PMH  |
@@ -44,6 +47,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 
  ## MINIMUM REQUIREMENTS
  
+| Category | Description | 
 | Editorial | Scholarly literature  |
 | :- | :- |
 | Data file format | No limitation, but only PDF can be displayed on CORE. |
@@ -53,6 +57,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 
  ## ADDITIONAL CRITERIA
  
+| Category | Description | 
 | Editorial Additional Specifications | None  |
 | :- | :- |
 | Recommended metadata | None |
@@ -62,6 +67,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 
  ## INFORMATION SOURCES
  
+| Category | Description | 
 | Wikipedia | https://en.wikipedia.org/wiki/CORE_(research_service)  |
 | :- | :- |
 | Index web pages | https://core.ac.uk/about |
