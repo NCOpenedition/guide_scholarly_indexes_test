@@ -1,6 +1,6 @@
 # Latindex
 
-Latindex is a regional online information system for academic journals in Latin America, the Caribbean, Spain and Portugal. It offers a bibliographical information system available for free consultation. It consists of: 1) a Directory containing a comprehensive inventory of scholarly journals which displays basic bibliographic data of each title; 2) a Catalogue wich provides a selection of journals that fulfill a series of international quality criteria. Latinindex also gives access to full text articles in their area (approx. 3000).
+Latindex is a regional online information system for academic journals in Latin America, the Caribbean, Spain and Portugal. It offers a bibliographical information system available for free consultation. It consists of: 1) a Directory containing a comprehensive inventory of scholarly journals which displays basic bibliographic data of each title; 2) a Catalogue wich provides a selection of journals that fulfill a series of international quality criteria. Latinindex also gives access to full text articles in their area (approx. 3000)!
 
 
  ## SERVICE DESCRIPTION
