@@ -12,7 +12,7 @@ Semantic Scholar provides free, AI-driven search and discovery tools, and open r
 | Owner | Allen Institute for Artificial Intelligence |
 | Owner type | Non-profit research organization |
 | Owner country | USA |
-| Launch year | 2015 |
+| Launch year | 2014 |
 | Scope | Any |
 | Access for index users | Free |
 | Access for data providers | Free |
