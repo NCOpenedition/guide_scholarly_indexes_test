@@ -3,11 +3,11 @@
 Crossref is a membership organisation with 19K members from commercial and institutional publishing. Crossref's main service is the linking of citing and cited publications. Participating publishers register Crossref DOIs and submit metadata of their own publications. 
 
 
- ## SERVICE DESCRIPTION
- 
-| Category | Description | 
+## SERVICE DESCRIPTION
+
+| Category | Description |
 | :- | :- |
-| Name | Crossref  |
+| Name | Crossref |
 | Website | https://www.crossref.org |
 | Owner | Publishers International Linking Association, Inc. (PILA) |
 | Owner type | Non-profit orgnization |
@@ -20,11 +20,11 @@ Crossref is a membership organisation with 19K members from commercial and insti
 | Documentation: general | About: https://www.crossref.org/documentation/   |
 | Documentation: technical | https://www.crossref.org/documentation/principles-practices/ |
 
- ## SERVICE PROVISION
- 
-| Category | Description | 
+## SERVICE PROVISION
+
+| Category | Description |
 | :- | :- |
-| Service type | PIDs Registration agency  |
+| Service type | PIDs Registration agency |
 | Content type | Books, journals, articles, datasets |
 | Content language | Any |
 | Content geographical provenance | Any |
@@ -36,39 +36,39 @@ Crossref is a membership organisation with 19K members from commercial and insti
 | Bibliodiversity support | No limitation for country, langage, discipline and access right. Over 21 000 members in 160 countries around the world. Subscription fees for publishers and publishing services, based on the number of DOIs created. |
 | Additional services | - CrossRef REST API:<br>https://www.crossref.org/documentation/retrieve-metadata/rest-api/ " |
 
- ## INCLUSION PROCESS
- 
-| Category | Description | 
+## INCLUSION PROCESS
+
+| Category | Description |
 | :- | :- |
-| Joining options | Membership is required to be registered by Crossref. Membership is open to either publishers or service providers.<br>Members can then issue Crossref DOIs for their users. DOI generation can vary from one service to another: automated/on-demand generation, for any content/specific content, etc.  |
+| Joining options | Membership is required to be registered by Crossref. Membership is open to either publishers or service providers.<br>Members can then issue Crossref DOIs for their users. DOI generation can vary from one service to another: automated/on-demand generation, for any content/specific content, etc. |
 | Data collection process | Crossref dedicated tools: <br>Crossref XML plugin for OJS (Open Journal Systems) <br>Web deposit form <br>Grant registration form (to register grant metadata only)<br><br>Also possible to send XML files conform to Crossref XSD (XML schema):<br>Upload JATS XML using the web deposit form<br>Upload XML files using our admin tool<br>XML deposit using HTTPS POST |
 | Application form for providers | https://www.crossref.org/_apply/member/ |
 | Contact information | https://support.crossref.org/hc/en-us/requests/new?ticket_form_id=360001642691 (Webform) |
 
- ## MINIMUM REQUIREMENTS
- 
-| Category | Description | 
+## MINIMUM REQUIREMENTS
+
+| Category | Description |
 | :- | :- |
-| Editorial | None  |
+| Editorial | None |
 | Data file format | None |
 | Metadata standard | Crossref standard XML schema for various objects: https://www.crossref.org/documentation/schema-library/metadata-deposit-schema-5-3-1/   |
 | Metadata file format | XML |
 | Minimum metadata | Journal: full title, ISSN or title-level DOI and URL<br>Issue: issue, publication date (year)<br>Article: titles, publication date (year), DOI |
 
- ## ADDITIONAL CRITERIA
- 
-| Category | Description | 
+## ADDITIONAL CRITERIA
+
+| Category | Description |
 | :- | :- |
-| Editorial Additional Specifications | None  |
+| Editorial Additional Specifications | None |
 | Recommended metadata | Journal: abbreviated title, DOI, coden, journal_issue, archive locations (with one archive name), title-level DOI and URL<br>Issue: publication date (month, day), journal volume, contributors, issue, DOI<br>Article: contributors, ORCID, publication date (day, month), pages (first page, last page), citation list, funding, license, Crossmark metadata and JATS-formatted abstracts |
 | Optional metadata | Publisher item number<br>Special numbering for special issues<br>Additional component of the publication (e.g. tables, figures etc.) |
 | Other requirements | List of metadata required for books, articles, datasets: <br>https://www.crossref.org/documentation/schema-library/required-recommended-elements/  |
 | SEO/UX requirements | None |
 
- ## INFORMATION SOURCES
- 
-| Category | Description | 
+## INFORMATION SOURCES
+
+| Category | Description |
 | :- | :- |
-| Wikipedia | https://fr.wikipedia.org/wiki/Crossref   |
+| Wikipedia | https://fr.wikipedia.org/wiki/Crossref  |
 | Index web pages | https://www.crossref.org/ |
 | Index news page | https://community.crossref.org/ |
