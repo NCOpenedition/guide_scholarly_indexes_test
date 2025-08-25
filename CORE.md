@@ -1,4 +1,4 @@
-# CORE_autoalign
+# CORE
 
 CORE (COnnecting REpositories) provides a comprehensive bibliographic database of the world?s scholarly literature, collecting and indexing research from repositories and journals. It contains a large collection of full text open access research papers. CORE is a not-for-profit service dedicated to the open access mission and one of the signatories of the Principles of Open Scholarly Infrastructures.
 
