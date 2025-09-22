@@ -1,1 +1,1 @@
-Test server to try Github functionnalities
+Test server to try Github functionnalities using Honkit
