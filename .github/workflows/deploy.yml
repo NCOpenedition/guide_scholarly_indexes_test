@@ -18,10 +18,10 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       
-    - name: Setup Node.js 18
+    - name: Setup Node.js 20
       uses: actions/setup-node@v4
       with:
-        node-version: '18'  # ← IMPORTANT: Node.js 18 minimum
+        node-version: '20'  # ← IMPORTANT: Node.js 20+ requis pour HonKit
         
     - name: Check for required files
       run: |
