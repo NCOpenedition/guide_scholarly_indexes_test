@@ -1,4 +1,4 @@
-name: Deploy HonKit to GitHub Pages
+name: Deploy HonKit to GitHub Pages 
 
 on:
   push:
