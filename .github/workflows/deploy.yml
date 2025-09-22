@@ -3,7 +3,7 @@ name: Build & deploy HonKit to GitHub Pages
 
 on:
   push:
-    branches: [ main ]  # adapter si tu utilises une autre branche
+    branches: [ main ]  # adapte si tu utilises une autre branche
 
 jobs:
   build-deploy:
