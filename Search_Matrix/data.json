@@ -1,0 +1,23 @@
+[
+  {
+    "titre": "Article sur les dynamiques sociales",
+    "auteurs": ["Dupont", "Martin"],
+    "discipline": "Sciences humaines et sociales",
+    "annee": 2021,
+    "lien": "https://exemple.com/article1"
+  },
+  {
+    "titre": "Étude en physique des matériaux",
+    "auteurs": ["Li", "Durand"],
+    "discipline": "Physique",
+    "annee": 2020,
+    "lien": "https://exemple.com/article2"
+  },
+  {
+    "titre": "Analyse politique comparée",
+    "auteurs": ["Nguyen"],
+    "discipline": "Sciences humaines et sociales",
+    "annee": 2019,
+    "lien": "https://exemple.com/article3"
+  }
+]
