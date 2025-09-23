@@ -1,4 +1,4 @@
-# Matrix Search
+# Search Matrix
 
 You can use this interface to search the type of indexes needed :
 
