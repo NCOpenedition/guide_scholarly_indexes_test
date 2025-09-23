@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Index Articles</title>
+</head>
+<body>
+  <h1>Explorer les index d'articles</h1>
+  <label for="discipline">Discipline :</label>
+  <select id="discipline">
+    <option value="">Toutes</option>
+    <option value="Sciences humaines et sociales">SHS</option>
+    <option value="Physique">Physique</option>
+  </select>
+
+  <ul id="resultats"></ul>
+
+  <script>
+    async function charger() {
+      const reponse = await fetch("index.json");
+      const donnees = await reponse.json();
+      const select = document.getElementById("discipline");
+      const ul = document.getElementById("resultats");
+
+      function afficher(filtre="") {
+        ul.innerHTML = "";
+        donnees
+          .filter(d => !filtre || d.discipline === filtre)
+          .forEach(d => {
+            let li = document.createElement("li");
+            li.innerHTML = `<b>${d.titre}</b> (${d.discipline}) - <a href="${d.lien}" target="_blank">Lien</a>`;
+            ul.appendChild(li);
+          });
+      }
+
+      select.addEventListener("change", () => afficher(select.value));
+      afficher();
+    }
+    charger();
+  </script>
+</body>
+</html>
