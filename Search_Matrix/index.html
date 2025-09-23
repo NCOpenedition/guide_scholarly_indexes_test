@@ -2,41 +2,33 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Index Articles</title>
+  <title>Search Matrix</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Explorer les index d'articles</h1>
-  <label for="discipline">Discipline :</label>
-  <select id="discipline">
-    <option value="">Toutes</option>
-    <option value="Sciences humaines et sociales">SHS</option>
-    <option value="Physique">Physique</option>
-  </select>
+  <h1>Use the search matrix to find indexes</h1>
+  <div class="filtres">
+    <label for="discipline">Discipline :</label>
+    <select id="discipline">
+      <option value="">Toutes</option>
+      <option value="Sciences humaines et sociales">Sciences humaines et sociales</option>
+      <option value="Physique">Physique</option>
+    </select>
+
+    <label for="annee">Année :</label>
+    <select id="annee">
+      <option value="">Toutes</option>
+      <option value="2021">2021</option>
+      <option value="2020">2020</option>
+      <option value="2019">2019</option>
+    </select>
+
+    <label for="recherche">Recherche :</label>
+    <input type="text" id="recherche" placeholder="Titre ou auteur...">
+  </div>
 
   <ul id="resultats"></ul>
 
-  <script>
-    async function charger() {
-      const reponse = await fetch("index.json");
-      const donnees = await reponse.json();
-      const select = document.getElementById("discipline");
-      const ul = document.getElementById("resultats");
-
-      function afficher(filtre="") {
-        ul.innerHTML = "";
-        donnees
-          .filter(d => !filtre || d.discipline === filtre)
-          .forEach(d => {
-            let li = document.createElement("li");
-            li.innerHTML = `<b>${d.titre}</b> (${d.discipline}) - <a href="${d.lien}" target="_blank">Lien</a>`;
-            ul.appendChild(li);
-          });
-      }
-
-      select.addEventListener("change", () => afficher(select.value));
-      afficher();
-    }
-    charger();
-  </script>
+  <script src="index.js"></script>
 </body>
 </html>
