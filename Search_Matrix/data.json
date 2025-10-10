@@ -1,23 +1,30 @@
 [
   {
-    "titre": "Article sur les dynamiques sociales",
-    "auteurs": ["Dupont", "Martin"],
-    "discipline": "Sciences humaines et sociales",
-    "annee": 2021,
-    "lien": "https://exemple.com/article1"
+    "titre": "BASE",
+    "access": ["free_publisher", "free_end_user"],
+    "scope": ["multidisciplinary", "geo_cov_world","any_lang_pub"],
+    "lienGit": "https://github.com/agCleo/craft-oa-ScholIndexes-doc/blob/main/CRAFT-OA-doc-BASE.md",
+    "lien": "https://www.base-search.net/"
   },
   {
-    "titre": "Étude en physique des matériaux",
-    "auteurs": ["Li", "Durand"],
-    "discipline": "Physique",
-    "annee": 2020,
-    "lien": "https://exemple.com/article2"
+    "titre": "CEEOL",
+    "access": [],
+    "scope": ["ssh","geo_cov_region","any_lang_pub"],
+    "lienGit": "https://github.com/agCleo/craft-oa-ScholIndexes-doc/blob/main/CRAFT-OA-doc-CEEOL.md",
+    "lien": "https://www.ceeol.com/"
   },
   {
-    "titre": "Analyse politique comparée",
-    "auteurs": ["Nguyen"],
-    "discipline": "Sciences humaines et sociales",
-    "annee": 2019,
-    "lien": "https://exemple.com/article3"
+    "titre": "CORE",
+    "access": ["free_publisher", "free_end_user"],
+    "scope": ["multidisciplinary", "geo_cov_world","any_lang_pub"],
+    "lienGit": "https://github.com/agCleo/craft-oa-ScholIndexes-doc/blob/main/CRAFT-OA-doc-CORE.md",
+    "lien": "https://core.ac.uk/"
+  },
+  {
+    "titre": "Pub med",
+    "access": ["free_publisher","free_end_user","any_lang_pub"],
+    "scope": ["stm", "geo_cov_world"],
+    "lienGit": "https://github.com/agCleo/craft-oa-ScholIndexes-doc/blob/main/CRAFT-OA-doc-PubMed.md",
+    "lien": "https://www.crossref.org"
   }
 ]
