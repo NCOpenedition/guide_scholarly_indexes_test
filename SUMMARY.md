@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Search Matrix](Matrix_Search.md)
-* [BASE](docs/BASE.md)
-* [CEEOL](docs/CEEOL.md)
-* [CORE](docs/CORE.md)
-* [DOAJ](docs/DOAJ.md)
+* [BASE](docs/CRAFT-OA-doc-BASE.md)
+* [CEEOL](docs/CRAFT-OA-doc-CEEOL.md)
+* [CORE](docs/CRAFT-OA-doc-CORE.md)
+* [DOAJ](docs/CRAFT-OA-doc-DOAJ.md)
 
