@@ -5,7 +5,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 
 ## SERVICE DESCRIPTION
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Name | CEEOL (Central and Eastern European Online Library) |
 | Website | https://www.ceeol.com/ |
@@ -22,7 +22,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 
 ## SERVICE PROVISION
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic index and full text repository |
 | Content type | Journal articles, eBooks and Grey Literature |
@@ -38,16 +38,16 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 
 ## INCLUSION PROCESS
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
-| Joining options | Completion of the online application form for journals or e-books and evaluation by the CEEOL?s publisher support team. https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal    |
+| Joining options | Completion of the online application form for journals or e-books and evaluation by the CEEOL's publisher support team. https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal    |
 | Data collection process | Upon submission for journals and books |
 | Application form for providers | Application forms:<br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal  <br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-ebook <br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-for-participation-as-publisher  |
 | Contact information | For patrons of libraries and end users: user.support@ceeol.com  <br>For subscribing institutions: subscriber.support@ceeol.com <br>For publishers: publisher.support@ceeol.com <br>For technichal help: technical.support@ceeol.com <br>For any other question: info@ceeol.com  |
 
 ## MINIMUM REQUIREMENTS
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Editorial | Geographic focus (Central, Eastern and Southeastern Europe)<br>Subject areas (Social Science and Humanities)<br>English Keywords<br>English Summaries<br>Author's institutional affiliation |
 | Data file format | Content in PDF and cover page in JPEG |
@@ -57,7 +57,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 
 ## ADDITIONAL CRITERIA
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
 | Recommended metadata | None |
@@ -67,7 +67,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 
 ## INFORMATION SOURCES
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/Central_and_Eastern_European_Online_Library |
 | Index web pages | https://www.ceeol.com/ |

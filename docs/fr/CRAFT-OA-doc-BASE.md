@@ -1,11 +1,11 @@
 # BASE
 
-Indexes the metadata of all kinds of academically relevant resources ? journals, institutional repositories, digital collections etc. ? which provide an OAI interface and use OAI-PMH for providing their contents.
+Indexes the metadata of all kinds of academically relevant resources - journals, institutional repositories, digital collections etc. - which provide an OAI interface and use OAI-PMH for providing their contents.
 
 
 ## SERVICE DESCRIPTION
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Name | BASE |
 | Website | https://www.base-search.net/ |
@@ -22,7 +22,7 @@ Indexes the metadata of all kinds of academically relevant resources ? journals,
 
 ## SERVICE PROVISION
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Service type | Automated aggregator with submission |
 | Content type | Scholarly content only (checked by BASE) |
@@ -38,7 +38,7 @@ Indexes the metadata of all kinds of academically relevant resources ? journals,
 
 ## INCLUSION PROCESS
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Joining options | Two options:<br>1. Suggestion of an OAI-PMH repository via an online form on BASE website <br>2. Automated collection of OAI-PMH repository listed in directories |
 | Data collection process | OAI-PMH automated harvesting<br>With or without declaration of database manager to BASE (automated crawling) |
@@ -47,7 +47,7 @@ Indexes the metadata of all kinds of academically relevant resources ? journals,
 
 ## MINIMUM REQUIREMENTS
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Editorial | Some contents have to be OA (full texts free of charge for readers, without registration) |
 | Data file format | Data not collected |
@@ -57,7 +57,7 @@ Indexes the metadata of all kinds of academically relevant resources ? journals,
 
 ## ADDITIONAL CRITERIA
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
 | Recommended metadata | Title<br>Author<br>Publication type<br>Publication date<br>Langage of the document<br>Access and re-use rights<br>Reference / Citation |
@@ -67,7 +67,7 @@ Indexes the metadata of all kinds of academically relevant resources ? journals,
 
 ## INFORMATION SOURCES
 
-| Category | Description |
+| Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/BASE_(search_engine)  |
 | Index web pages | https://www.base-search.net/about/en/index.php |
