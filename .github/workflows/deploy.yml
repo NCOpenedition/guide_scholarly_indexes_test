@@ -33,7 +33,9 @@ jobs:
           fi
 
       - name: Build the book
-        run: npx honkit build
+        run: |
+          npx honkit build
+          ls -R _book
         working-directory: . 
 
       - name: Deploy to GitHub Pages
