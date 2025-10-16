@@ -26,7 +26,6 @@ jobs:
         working-directory: ./docs
         run: |
           npx honkit build
-          cp ../SearchMatrix.html _book/   # copie ton interface JS dans le site généré
           ls -R _book
 
       - name: Deploy to GitHub Pages
