@@ -1,4 +1,4 @@
 # Langues
 
-* [Français](docs/fr/)
-* [English](docs/en/)
+* [Français](fr/)
+* [English](en/)
