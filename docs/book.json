@@ -1,0 +1,9 @@
+{
+  "title": "Ma Documentation",
+  "author": "Nathan",
+  "language": "fr",
+  "plugins": [],
+  "structure": {
+    "readme": "README.md"
+  }
+}
