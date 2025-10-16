@@ -8,5 +8,4 @@
 * [Crossref](CRAFT-OA-doc-Crossref.md)
 * [DOAJ](CRAFT-OA-doc-DOAJ.md)
 * [Datacite](CRAFT-OA-doc-Datacite.md)
-* 
 
