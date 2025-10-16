@@ -1,46 +1,38 @@
-# .github/workflows/deploy.yml.
-name: Build & deploy HonKit to GitHub Pages
+name: Build & Deploy HonKit Documentation
 
 on:
   push:
-    branches: [ main ]  # adapte si tu utilises une autre branche
+    branches: [ main ]
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Use Node.js 20
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
 
-      - name: Show node/npm (debug)
+      - name: Install dependencies
+        working-directory: ./docs
         run: |
-          node -v
-          npm -v
-
-      - name: Install HonKit & deps (fallbacks if no package.json)
-        run: |
-          if [ -f package-lock.json ] || [ -f package.json ]; then
-            npm ci
-          else
-            npm init -y
-            npm install honkit gh-pages --save-dev
-          fi
+          npm ci || npm install honkit gh-pages --save-dev
 
       - name: Build the book
+        working-directory: ./docs
         run: |
           npx honkit build
+          cp ../SearchMatrix.html _book/   # copie ton interface JS dans le site généré
           ls -R _book
-        working-directory: ./docs
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          publish_dir: ./docs/_book
           force_orphan: true
+
