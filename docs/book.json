@@ -1,9 +1,5 @@
 {
-  "title": "Ma Documentation",
-  "author": "Nathan",
-  "language": "fr",
+  "title": "Guide to Scholarly indexes Bilingual Documentation",
   "plugins": [],
-  "structure": {
-    "readme": "README.md"
-  }
+  "author": "NCOpenedition"
 }
