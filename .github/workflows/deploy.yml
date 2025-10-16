@@ -31,10 +31,6 @@ jobs:
             npm init -y
             npm install honkit gh-pages --save-dev
           fi
-      
-      - name: Copy SearchMatrix.html
-        run: cp ../SearchMatrix.html _book/
-        working-directory: ./docs
 
       - name: Build the book
         run: |
