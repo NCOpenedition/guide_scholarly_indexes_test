@@ -1,18 +1,18 @@
-<div style="text-align: right; margin-bottom: 1em;">
-  <label for="lang-select" style="font-weight:bold; margin-right:0.5em;">🌐 Langue :</label>
-  <select id="lang-select" onchange="switchLanguage(this.value)">
-    <option value="">-- Choisir --</option>
-    <option value="{{ book.basePath }}/fr/">Français</option>
-    <option value="{{ book.basePath }}/en/">English</option>
-    <option value="{{ book.basePath }}/">Accueil</option>
-  </select>
+<div id="language-switcher" align="left">
+  🌐 
+  <span style="cursor:pointer; color:blue; text-decoration:underline;" data-url="{{ book.basePath }}/fr/">Français</span> | 
+  <span style="cursor:pointer; color:blue; text-decoration:underline;" data-url="{{ book.basePath }}/en/">English</span>
 </div>
 
 <script>
-function switchLanguage(url) {
-  if(url) {
-    window.location.href = url;
-  }
-}
+  document.querySelectorAll('#language-switcher [data-url]').forEach(function(el) {
+    el.addEventListener('click', function() {
+      const url = el.getAttribute('data-url');
+      if(url){
+        window.location.href = url;
+      }
+    });
+  });
 </script>
+
 
