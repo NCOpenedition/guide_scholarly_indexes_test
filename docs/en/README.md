@@ -1,7 +1,7 @@
 <div id="language-switcher" align="left">
   🌐 
-  <span style="cursor:pointer; color:blue; text-decoration:underline;" data-url="{{ book.basePath }}/fr/">Français</span> | 
-  <span style="cursor:pointer; color:blue; text-decoration:underline;" data-url="{{ book.basePath }}/en/">English</span>
+  <span style="cursor:pointer; text-decoration:underline;" data-url="{{ book.basePath }}/fr/">Français</span> | 
+  <span style="cursor:pointer; text-decoration:underline;" data-url="{{ book.basePath }}/en/">English</span>
 </div>
 
 <script>
