@@ -1,5 +1,13 @@
 {
-  "title": "Guide to Scholarly indexes Bilingual Documentation",
+  "title": "Guide to scholarly indexes",
+  "language": "en",
+  "root": ".",
+  "structure": {
+    "summary": "SUMMARY.md"
+  },
   "plugins": [],
-  "author": "NCOpenedition"
+  "pluginsConfig": {},
+  "variables": {
+    "basePath": "/Scholarly_indexes_Catalog_test/"
+  }
 }
