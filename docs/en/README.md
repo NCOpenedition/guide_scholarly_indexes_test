@@ -1,4 +1,4 @@
 <div align="left">
-  🌐 <a href="./fr/">Français</a> | <a href="./en/">English</a>
+  🌐 [Français]({{ book.basePath }}/fr/) | [English]({{ book.basePath }}/en/)
 </div>
 Test server to try Github functionnalities using Honkit
