@@ -1,14 +1,18 @@
-<div align="left">
-  🌐 <a href="{{ book.basePath }}/fr/">Français</a> | <a href="{{ book.basePath }}/en/">English</a>
+<div style="text-align: right; margin-bottom: 1em;">
+  <label for="lang-select" style="font-weight:bold; margin-right:0.5em;">🌐 Langue :</label>
+  <select id="lang-select" onchange="switchLanguage(this.value)">
+    <option value="">-- Choisir --</option>
+    <option value="{{ book.basePath }}/fr/">Français</option>
+    <option value="{{ book.basePath }}/en/">English</option>
+    <option value="{{ book.basePath }}/">Accueil</option>
+  </select>
 </div>
 
----
-
-# Scholarly Indexes Catalog
-
-Bienvenue dans la documentation bilingue du **Scholarly Indexes Catalog**.  
-Choisissez une langue pour commencer 👇
-
-- 🇫🇷 [Français]({{ book.basePath }}/fr/)
-- 🇬🇧 [English]({{ book.basePath }}/en/)
+<script>
+function switchLanguage(url) {
+  if(url) {
+    window.location.href = url;
+  }
+}
+</script>
 
