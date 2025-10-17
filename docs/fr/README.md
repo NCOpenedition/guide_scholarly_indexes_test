@@ -1,3 +1,4 @@
+Bienvenue dans le Guide des indexes univeristaires. Veuillez choisir une langue:
 <div id="language-switcher" align="left">
   🌐 
   <span style="cursor:pointer; text-decoration:underline;" data-url="{{ book.basePath }}/fr/">Français</span> | 
