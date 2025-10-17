@@ -1,3 +1,4 @@
+Welcome to the Guide of Scholarly indexes in english, please select your language:
 <div id="language-switcher" align="left">
   🌐 
   <span style="cursor:pointer; text-decoration:underline;" data-url="{{ book.basePath }}/fr/">Français</span> | 
