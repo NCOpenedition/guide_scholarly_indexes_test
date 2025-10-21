@@ -1,9 +1,9 @@
 {
   "title": "Guide to scholarly indexes",
   "language": "en",
-  "root": ".",
+  "root": "./en",
   "structure": {
-    "summary": "SUMMARY.md"
+    "langs": "LANGS.md"
   },
   "plugins": [],
   "pluginsConfig": {},
