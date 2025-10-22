@@ -28,6 +28,9 @@ jobs:
           npx honkit build
           ls -R _book
 
+      - name: Add redirect index.html
+        run: cp redirect.html _book/index.html
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
