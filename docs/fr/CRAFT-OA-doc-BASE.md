@@ -41,7 +41,7 @@ Indexe les métadonnées de toutes sortes de ressources académiquement pertinen
 | Element | Description |
 | :- | :- |
 | Options d'inclusions | Deux options :<br>1. Suggestion d'un référentiel OAI-PMH via un formulaire en ligne sur le site web de BASE<br>2. Collecte automatisée des référentiels OAI-PMH répertoriés dans les annuaires |
-| Processus de collecte des données | Collecte automatisée OAI-PMH<br>Avec ou sans déclaration du gestionnaire de base de données à BASE (exploration automatisée) |
+| Processus de collecte des données  | Collecte automatisée OAI-PMH<br>Avec ou sans déclaration du gestionnaire de base de données à BASE (exploration automatisée) |
 | Formulaire d'inclusion pour les fournisseurs de données | https://www.base-search.net/about/fr/suggest.php |
 | Informations de contact | https://www.base-search.net/about/en/contact.php (formulaire Web) |
 
@@ -69,6 +69,6 @@ Indexe les métadonnées de toutes sortes de ressources académiquement pertinen
 
 | Element | Description |
 | :- | :- |
-| Wikipedia | https://en.wikipedia.org/wiki/BASE_(moteur_de_recherche) |
+| Wikipedia | https://en.wikipedia.org/wiki/BASE_(moteur_de_recherche)  |
 | Page d'accueil de l'index | https://www.base-search.net/about/fr/index.php |
 | Page d'actualité de l'index | Aucun |
