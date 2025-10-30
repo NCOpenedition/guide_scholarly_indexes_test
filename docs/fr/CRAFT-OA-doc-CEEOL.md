@@ -41,7 +41,7 @@ La Bibliothèque en ligne d'Europe centrale et orientale (CEEOL) est un référe
 | Element | Description |
 | :- | :- |
 | Options d'inclusions | Formulaire de candidature en ligne pour les revues ou les livres numériques à compléter. Puis évaluation de la ressource par l'équipe d'assistance aux éditeurs de CEEOL. https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal |
-| Processus de collecte des données | Lors de la soumission pour les revues et les livres |
+| Processus de collecte des données  | Lors de la soumission pour les revues et les livres |
 | Formulaire d'inclusion pour les fournisseurs de données | Formulaires de candidature :<br>Pour les revues:<br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal <br>Pour les livres numériques<br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-ebook <br>Pour les éditeurs<br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-for-participation-as-publisher |
 | Informations de contact | Pour les usagers des bibliothèques et les utilisateurs finaux : user.support@ceeol.com<br><br>Pour les institutions abonnées : subscriber.support@ceeol.com<br><br>Pour les éditeurs : publisher.support@ceeol.com<br><br>Pour une assistance technique : technical.support@ceeol.com<br><br>Pour toute autre question : info@ceeol.com |
 
