@@ -33,7 +33,7 @@ CORE (COnnecting REpositories) propose une base de données bibliographique comp
 | Sources de l'index | Dépôts institutionnels/thématiques<br>Agrégateurs<br>Archives de revues/éditeurs<br>Systèmes CRIS institutionnels/nationaux<br>Catalogues de métadonnées<br>Liste complète ici : https://core.ac.uk/data-providers/?q=&size=20 |
 | Données collectées | Métadonnées<br>PDF dès sa disponibilité |
 | Standards supportés | Dublin Core, RIOXX |
-| Bibliodiversité | CORE indexe toutes les métadonnées d'un référentiel, mais ne peut indexer que les documents en texte intégral au format PDF. L'index travaille néanmoins à l'intégration d'autres types de fichiers tel que les pages HTML, les images... |
+| Bibliodiversité | CORE indexe toutes les métadonnées d'un référentiel, mais ne peut indexer que les documents en texte intégral au format PDF. L'index travaille néanmoins à l'intégration d'autres types de fichiers tel que les pages HTML, les images...  |
 | Services additionnels | CORE Recommender:<br>https://core.ac.uk/services/recommender <br>CORE Discovery:<br>https://core.ac.uk/services/discovery <br>OAI (Open Archives Initiative) resolver:<br>https://core.ac.uk/documentation/oai-resolver <br>CORE Dashboard:<br>https://core.ac.uk/services/repository-dashboard <br>Consulting Services:<br>https://core.ac.uk/services/consultancy<br>Core API: <br>https://core.ac.uk/services/api |
 
 ## PROCESSUS D'INCLUSION
@@ -41,7 +41,7 @@ CORE (COnnecting REpositories) propose une base de données bibliographique comp
 | Element | Description |
 | :- | :- |
 | Options d'inclusions | Collecte automatique à partir d'une liste d'agrégateurs : https://core.ac.uk/data-providers/?q=&size=10<br>Possibilité d'ajouter un nouveau fournisseur de données en remplissant un formulaire : https://core.ac.uk/benefits#join-core |
-| Processus de collecte des données | Les métadonnées sont collectées lors de leur soumission par les fournisseurs de données et automatiquement identifiées et enregistrées via OAI-PMH |
+| Processus de collecte des données  | Les métadonnées sont collectées lors de leur soumission par les fournisseurs de données et automatiquement identifiées et enregistrées via OAI-PMH |
 | Formulaire d'inclusion pour les fournisseurs de données | https://core.ac.uk/benefits#join-core |
 | Informations de contact | Courriel : theteam@core.ac.uk<br>Page de contact : https://core.ac.uk/about#contact |
 
