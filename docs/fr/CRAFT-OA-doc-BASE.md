@@ -41,7 +41,7 @@ Indexe les m?tadonn?es de toutes sortes de ressources acad?miquement pertinentes
 | Element | Description |
 | :- | :- |
 | Options d'inclusions | Deux options :<br>1. Suggestion d'un r?f?rentiel OAI-PMH via un formulaire en ligne sur le site web de BASE<br>2. Collecte automatis?e des r?f?rentiels OAI-PMH r?pertori?s dans les annuaires |
-| Processus de collecte des donn?es  | Collecte automatis?e OAI-PMH<br>Avec ou sans d?claration du gestionnaire de base de donn?es ? BASE (exploration automatis?e) |
+| Processus de collecte des donn?es | Collecte automatis?e OAI-PMH<br>Avec ou sans d?claration du gestionnaire de base de donn?es ? BASE (exploration automatis?e) |
 | Formulaire d'inclusion pour les fournisseurs de donn?es | https://www.base-search.net/about/fr/suggest.php |
 | Informations de contact | https://www.base-search.net/about/en/contact.php (formulaire Web) |
 
@@ -69,6 +69,6 @@ Indexe les m?tadonn?es de toutes sortes de ressources acad?miquement pertinentes
 
 | Element | Description |
 | :- | :- |
-| Wikipedia | https://en.wikipedia.org/wiki/BASE_(moteur_de_recherche)  |
+| Wikipedia | https://en.wikipedia.org/wiki/BASE_(moteur_de_recherche) |
 | Page d'accueil de l'index | https://www.base-search.net/about/fr/index.php |
 | Page d'actualit? de l'index | Aucun |
