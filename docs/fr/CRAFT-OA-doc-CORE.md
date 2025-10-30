@@ -33,7 +33,7 @@ CORE (COnnecting REpositories) propose une base de donn?es bibliographique compl
 | Sources de l'index | D?p?ts institutionnels/th?matiques<br>Agr?gateurs<br>Archives de revues/?diteurs<br>Syst?mes CRIS institutionnels/nationaux<br>Catalogues de m?tadonn?es<br>Liste compl?te ici : https://core.ac.uk/data-providers/?q=&size=20 |
 | Donn?es collect?es | M?tadonn?es<br>PDF d?s sa disponibilit? |
 | Standards support?s | Dublin Core, RIOXX |
-| Bibliodiversit? | CORE indexe toutes les m?tadonn?es d'un r?f?rentiel, mais ne peut indexer que les documents en texte int?gral au format PDF. L'index travaille n?anmoins ? l'int?gration d'autres types de fichiers tel que les pages HTML, les images...  |
+| Bibliodiversit? | CORE indexe toutes les m?tadonn?es d'un r?f?rentiel, mais ne peut indexer que les documents en texte int?gral au format PDF. L'index travaille n?anmoins ? l'int?gration d'autres types de fichiers tel que les pages HTML, les images... |
 | Services additionnels | CORE Recommender:<br>https://core.ac.uk/services/recommender <br>CORE Discovery:<br>https://core.ac.uk/services/discovery <br>OAI (Open Archives Initiative) resolver:<br>https://core.ac.uk/documentation/oai-resolver <br>CORE Dashboard:<br>https://core.ac.uk/services/repository-dashboard <br>Consulting Services:<br>https://core.ac.uk/services/consultancy<br>Core API: <br>https://core.ac.uk/services/api |
 
 ## PROCESSUS D'INCLUSION
@@ -41,7 +41,7 @@ CORE (COnnecting REpositories) propose une base de donn?es bibliographique compl
 | Element | Description |
 | :- | :- |
 | Options d'inclusions | Collecte automatique ? partir d'une liste d'agr?gateurs : https://core.ac.uk/data-providers/?q=&size=10<br>Possibilit? d'ajouter un nouveau fournisseur de donn?es en remplissant un formulaire : https://core.ac.uk/benefits#join-core |
-| Processus de collecte des donn?es  | Les m?tadonn?es sont collect?es lors de leur soumission par les fournisseurs de donn?es et automatiquement identifi?es et enregistr?es via OAI-PMH |
+| Processus de collecte des donn?es | Les m?tadonn?es sont collect?es lors de leur soumission par les fournisseurs de donn?es et automatiquement identifi?es et enregistr?es via OAI-PMH |
 | Formulaire d'inclusion pour les fournisseurs de donn?es | https://core.ac.uk/benefits#join-core |
 | Informations de contact | Courriel : theteam@core.ac.uk<br>Page de contact : https://core.ac.uk/about#contact |
 
