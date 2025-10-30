@@ -41,7 +41,7 @@ Une brève description en 3 ou 4 lignes de l'index, de ses principales caractér
 | Element | Description |
 | :- | :- |
 | Options d'inclusions | Procédure détaillée à suivre par la revue pour rejoindre l'index : inscription, formulaire en ligne, évaluation de la revue, etc. |
-| Processus de collecte des données | Procédure détaillée que l'index suivra pour collecter les métadonnées de la revue (collecte manuelle ou automatique) |
+| Processus de collecte des données  | Procédure détaillée que l'index suivra pour collecter les métadonnées de la revue (collecte manuelle ou automatique) |
 | Formulaire d'inclusion pour les fournisseurs de données | URL directe du formulaire de demande d'adhésion à l'index (si existant) |
 | Informations de contact | e-mail ou formulaire de contact utilisé pour contacter l'index |
 
