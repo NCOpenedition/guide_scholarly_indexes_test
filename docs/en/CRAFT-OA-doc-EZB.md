@@ -10,7 +10,7 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Name | EZB (Electronic Journals Library) |
 | Website | https://ezb.ur.de/ |
 | Owner | University Library of Regensburg  |
-| Owner type | UB Regensburg |
+| Owner type | Public research organization |
 | Owner country | Germany |
 | Launch year | 1997 |
 | Scope | Any |
