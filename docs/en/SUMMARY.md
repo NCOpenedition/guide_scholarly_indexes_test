@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [BASE](CRAFT-OA-doc-BASE.md)
-* [CEEOL](CRAFT-OA-doc-CEEOL.md)
-* [CORE](CRAFT-OA-doc-CORE.md)
-* [Crossref](CRAFT-OA-doc-Crossref.md)
-* [DOAJ](CRAFT-OA-doc-DOAJ.md)
-* [Datacite](CRAFT-OA-doc-Datacite.md)
+* [BASE](GuideScholarlyIndexes-BASE.md)
+* [CEEOL](GuideScholarlyIndexes-CEEOL.md)
+* [CORE](GuideScholarlyIndexes-CORE.md)
+* [Crossref](GuideScholarlyIndexes-Crossref.md)
+* [DOAJ](GuideScholarlyIndexes-DOAJ.md)
+* [Datacite](GuideScholarlyIndexes-Datacite.md)
 
