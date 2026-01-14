@@ -4,7 +4,6 @@ A brief description in 3 or 4 lines of the index, its main characteristics and f
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | Name of the index (Full name and abbreviation if needed) <br>ex: DOAJ (Directory of Open Access Journals) |
@@ -21,7 +20,6 @@ A brief description in 3 or 4 lines of the index, its main characteristics and f
 | Documentation: technical | URL of documentation about the data collection process (e.g. submission manual, metadata model, aggregation process, etc.) |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Service typology created within CRAFT-OA |
@@ -37,7 +35,6 @@ A brief description in 3 or 4 lines of the index, its main characteristics and f
 | Additional services | A URL and a brief description of other tools connected with the index (API, other aggregators, data visualization tools, etc.) |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Detailed procedure the journal needs to follow to join the index. If a registration, completion of an online form, a journal evaluation is needed, etc. |
@@ -46,7 +43,6 @@ A brief description in 3 or 4 lines of the index, its main characteristics and f
 | Contact information | Email or contact form used to contact the index |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | A list of main editorial requirements the journal needs to apply to be part of the index  |
@@ -56,7 +52,6 @@ A brief description in 3 or 4 lines of the index, its main characteristics and f
 | Minimum metadata | List of the metadata mandatory fields |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | Optional editorial requirements (these may be checked by the index, but are not blocking) |
@@ -66,7 +61,6 @@ A brief description in 3 or 4 lines of the index, its main characteristics and f
 | SEO/UX requirements | List of additional criteria required by the index to improve user experience and search engine optimization |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | URL of the wikipedia page about the service |
