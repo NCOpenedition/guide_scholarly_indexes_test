@@ -4,7 +4,6 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | CORE |
@@ -21,7 +20,6 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | Documentation: technical | Core Data provider's Guide: https://core.ac.uk/documentation/data-providers-guide<br>Dataset documentation: https://core.ac.uk/documentation/dataset  <br>API: https://api.core.ac.uk/docs/v3  |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Fully automated aggregator  |
@@ -37,7 +35,6 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | Additional services | CORE Recommender:<br>https://core.ac.uk/services/recommender <br>CORE Discovery:<br>https://core.ac.uk/services/discovery <br>OAI (Open Archives Initiative) resolver:<br>https://core.ac.uk/documentation/oai-resolver <br>CORE Dashboard:<br>https://core.ac.uk/services/repository-dashboard <br>Consulting Services:<br>https://core.ac.uk/services/consultancy<br>Core API: <br>https://core.ac.uk/services/api |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Automatic harvest from a list of aggregators: https://core.ac.uk/data-providers/?q=&size=10<br>Possibility to add a new data provider registration by completion of a form: https://core.ac.uk/benefits#join-core |
@@ -46,7 +43,6 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | Contact information | Contact email: theteam@core.ac.uk <br>Contact page: https://core.ac.uk/about#contact  |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Scholarly literature |
@@ -56,7 +52,6 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | Minimum metadata | Title<br>Author<br>Language<br>Publisher<br>Identifier<br>Acceptation date<br>Publication date |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | SEO/UX requirements | Not communicated |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/CORE_(research_service) |
