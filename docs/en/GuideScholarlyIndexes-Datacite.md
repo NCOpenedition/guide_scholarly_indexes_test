@@ -4,7 +4,6 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | DataCite |
@@ -21,7 +20,6 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | Documentation: technical | Documentation for Service Providers: https://support.datacite.org/docs/best-practices-for-service-providers <br>Documentation for developers: https://support.datacite.org/docs/api <br>API: https://support.datacite.org/reference/introduction    |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | PIDs registration agency |
@@ -37,7 +35,6 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | Additional services | DataCite Fabrica: https://doi.datacite.org/  <br>DataCite REST API: https://support.datacite.org/docs/api  |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Upon submission by registered institutional users. The organizational membership enquiry can be completed here:<br>https://formstack.io/50D06  <br>It's also possible to contact directly the datacite support to have more informations about joining options: support@datacite.org   |
@@ -46,7 +43,6 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | Contact information | support@datacite.org (more info on https://support.datacite.org/docs/how-to-contact-datacite) |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | None |
@@ -56,7 +52,6 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | Minimum metadata | Identifier<br>Creator<br>Title<br>Publisher<br>PublicationYear<br>ResourceType |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | SEO/UX requirements | None |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/DataCite |
