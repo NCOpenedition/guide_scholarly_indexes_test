@@ -4,7 +4,6 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | OpenAlex |
@@ -21,7 +20,6 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | Documentation: technical | https://docs.openalex.org/ |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Fully automated aggregator  |
@@ -37,7 +35,6 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | Additional services | OpenAlex API (Free and no authentication needed, daily limit of API calls is 100 000 requests per user): https://docs.openalex.org/how-to-use-the-api/api-overview<br><br>OpenAlex Snapshot (download and installation of a complete copy of the OpenAlex database):<br>https://docs.openalex.org/download-all-data/openalex-snapshot |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | OpenAlex automatically indexes new journals and articles if the publications are not already stored in OpenAlex data sources. OpenAlex primarily retrieves new records from Crossref (https://www.crossref.org/). |
@@ -46,7 +43,6 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | Contact information | Contact support: https://help.openalex.org/hc/en-us/requests/new  |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Dependent from the data sources crawled by OpenAlex |
@@ -56,7 +52,6 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | Minimum metadata | Dependent from the data sources crawled by OpenAlex |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | Dependent from the data sources crawled by OpenAlex |
@@ -66,7 +61,6 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | SEO/UX requirements | Dependent from the data sources crawled by OpenAlex |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/OurResearch  |
