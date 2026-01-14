@@ -4,7 +4,6 @@ The OpenAIRE Graph is an open resource that aggregates a collection of research 
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | OpenAIRE Graph |
@@ -21,7 +20,6 @@ The OpenAIRE Graph is an open resource that aggregates a collection of research 
 | Documentation: technical | Guidelines for repository managers: <br>https://guidelines.openaire.eu/en/latest/literature/index.html   |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Automated aggregator with submission |
@@ -37,7 +35,6 @@ The OpenAIRE Graph is an open resource that aggregates a collection of research 
 | Additional services | OpenAIRE EXPLORE<br>https://explore.openaire.eu/<br><br>OpenAIRE CONNECT<br>https://connect.openaire.eu/<br><br>OpenAIRE MONITOR<br>https://monitor.openaire.eu/<br><br>OpenAIRE PROVIDE<br>https://provide.openaire.eu/home<br><br>OpenAIRE Broker<br>https://graph.openaire.eu/docs/apis/broker-api/<br><br>OpenAIRE UsageCounts<br>https://usagecounts.openaire.eu/<br><br>ScholeXplorer<br>https://scholexplorer.openaire.eu/<br><br>Zenodo<br>OpenCitations<br>OpenAPC<br>DOAJ<br>Crossref<br>Datacite |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | If the publications are not already stored in OpenAIRE's data source (full list of data sources here: https://explore.openaire.eu/search/find/dataproviders), the main option is to register the data source via OpenAIRE PROVIDE (https://provide.openaire.eu/). The data source must be compliant with the OpenAIRE guidelines (https://guidelines.openaire.eu/). |
@@ -46,7 +43,6 @@ The OpenAIRE Graph is an open resource that aggregates a collection of research 
 | Contact information | https://www.openaire.eu/helpdesk (Webform) |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | None |
@@ -56,7 +52,6 @@ The OpenAIRE Graph is an open resource that aggregates a collection of research 
 | Minimum metadata | Title<br>Creator<br>Publication date<br>Resource type<br>Resource identifier<br>Access rights<br>Contributor (if applicable)<br>Funding reference (if applicable)<br>Embargo (if applicable)<br>Publisher (if applicable)<br>Language (if applicable)<br>Description/abstract (if applicable)<br>Subject (if applicable)<br>File location (if applicable) |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ The OpenAIRE Graph is an open resource that aggregates a collection of research 
 | SEO/UX requirements | None |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | None |
