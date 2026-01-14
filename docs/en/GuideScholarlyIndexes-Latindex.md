@@ -4,7 +4,6 @@ Latindex is a regional online information system for academic journals in Latin 
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | Latindex |
@@ -21,7 +20,6 @@ Latindex is a regional online information system for academic journals in Latin 
 | Documentation: technical | Requirements for the Catalog (Spanish): https://latindex.org/latindex/postulacion/postulacionCatalogo  |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Searchable bibliographic index |
@@ -37,7 +35,6 @@ Latindex is a regional online information system for academic journals in Latin 
 | Additional services | None |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Completion of an online submission form and verification by the committee. <br>To enter the Directory, the journal must comply with a few editorial requirements<br>To enter the Catalog, the journal must meet the seven mandatory basic criteria and at least 23 of the remaining characteristics for a minimum of 30, wich represent 80% of compliance.  |
@@ -46,7 +43,6 @@ Latindex is a regional online information system for academic journals in Latin 
 | Contact information | latindex@unam.mx  |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | To be included in the Directory only requires the following elements:<br>Academic content<br>Currently published<br>At least one published number<br>ISSN<br><br>To be included in the Catalogue requires:<br>to be indexed in the Directory <br>to provide Open Access content (with or without fees)<br>to comply with at least 30 out of the 38 qualification criteria<br>to comply specifically with the seven mandatory Basic criteria<br><br>The seven Basic criteria are the following:<br>Editorial responsibilities information<br>Regularity of publication over 2 years<br>Authors information<br>Identification of the publishing entity<br>Instructions to authors for publishing<br>Publishing policies<br>ISSN |
@@ -56,7 +52,6 @@ Latindex is a regional online information system for academic journals in Latin 
 | Minimum metadata | Title<br>ISSN |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | Full list of the 38 criteria for the Catalog : https://latindex.org/latindex/postulacion/postulacionCatalogo |
@@ -66,7 +61,6 @@ Latindex is a regional online information system for academic journals in Latin 
 | SEO/UX requirements | Journals should have an institutional website, with webpages for each article (no continuous archives allowed)<br>Journals must have structure that allows access to articles in a maximum of three clicks from its main page |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/Latindex |
