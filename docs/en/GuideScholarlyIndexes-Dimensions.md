@@ -4,7 +4,6 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | Dimensions |
@@ -21,7 +20,6 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 | Documentation: technical | https://figshare.com/articles/online_resource/A_Guide_to_the_Dimensions_Data_Approach/5783094?file=42590014 |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Fully automated aggregator  |
@@ -37,7 +35,6 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 | Additional services | Dimensions Analytics: <br>https://www.dimensions.ai/products/all-products/dimensions-analytics/= <br>Dimensions API:<br>https://www.dimensions.ai/products/all-products/dimensions-api/ <br>Dimensions Knowledge Graph:<br>https://www.dimensions.ai/products/all-products/dimensions-knowledge-graph/  |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | By joining one of the datasources mentionned in the index sources |
@@ -46,7 +43,6 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 | Contact information | Contact e-mail: https://www.dimensions.ai/contact-us/ |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | none |
@@ -56,7 +52,6 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 | Minimum metadata | Not communicated (reuse of the minimum metadata of index sources) |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | Same requirements as the index sources |
@@ -66,7 +61,6 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 | SEO/UX requirements | Not communicated |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/Dimensions_(database) |
