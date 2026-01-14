@@ -4,7 +4,6 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | GoTriple |
@@ -21,7 +20,6 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | Documentation: technical | About metadata requirements: <br>https://gotriple.eu/docs/gotriple-handbook-v2_0.pdf <br>About data submission: <br>https://www.gotriple.eu/docs/your_data_in_gotriple-v1_0.pdf  |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Automated aggregator with submission |
@@ -37,7 +35,6 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | Additional services | Search visualization: https://openknowledgemaps.org/ <br>Online annotation tool: https://thepund.it/ <br>GoTriple APIs:<br>Endpoint: https://api.gotriple.eu/ <br>API documentation: https://zenodo.org/records/7371832  |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | If the publications are not already stored in GoTriple's data sources, the main option is to register a new data source through the dedicated interface: https://pipeline.gotriple.eu/user/login?destination=/. |
@@ -46,7 +43,6 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | Contact information | Contact: <br>https://project.gotriple.eu/contact/  <br>Contact adress:<br>triple@operas-eu.org    |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | The publication has to be a scholarly output in the Social Sciences and Humanities area. It can correspond to a variety of types: article, bibliography, blog-post, report, periodical, preprint, review, etc. |
@@ -56,7 +52,6 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | Minimum metadata | Creator of the resource<br>Identifier of the resource<br>Title of the resource |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | SEO/UX requirements | none |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | none |
