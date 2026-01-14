@@ -4,7 +4,6 @@ Semantic Scholar provides free, AI-driven search and discovery tools, and open r
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | Semantic Scholar |
@@ -21,7 +20,6 @@ Semantic Scholar provides free, AI-driven search and discovery tools, and open r
 | Documentation: technical | Not communicated |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Fully automated aggregator  |
@@ -37,7 +35,6 @@ Semantic Scholar provides free, AI-driven search and discovery tools, and open r
 | Additional services | Semantic Scholar API:<br>https://www.semanticscholar.org/product/api<br>Semantic Reader:<br>https://www.semanticscholar.org/product/semantic-reader |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | No manual submission. Semantic scholar mostly operates with big publishers and repositories. <br>Fully automated indexing process upon a list of academic publishers, data providers and aggregators. |
@@ -46,7 +43,6 @@ Semantic Scholar provides free, AI-driven search and discovery tools, and open r
 | Contact information | Contact form on the help section at the end of the page: https://www.semanticscholar.org/  |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Scholarly articles |
@@ -56,7 +52,6 @@ Semantic Scholar provides free, AI-driven search and discovery tools, and open r
 | Minimum metadata | Not communicated |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | Not communicated |
@@ -66,7 +61,6 @@ Semantic Scholar provides free, AI-driven search and discovery tools, and open r
 | SEO/UX requirements | Not communicated |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/Semantic_Scholar |
