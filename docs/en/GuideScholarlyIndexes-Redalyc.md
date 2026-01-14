@@ -4,7 +4,6 @@ Diamond open access journal indexing service. Quality index and full-text reposi
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | Redalyc Scientific Information System |
@@ -21,7 +20,6 @@ Diamond open access journal indexing service. Quality index and full-text reposi
 | Documentation: technical | XML JATS website: https://xmljatsredalyc.org/ <br>Marcalyc website: https://marcalyc.redalyc.org/  |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic index |
@@ -37,7 +35,6 @@ Diamond open access journal indexing service. Quality index and full-text reposi
 | Additional services | Marcalyc (Markup tool XML JATS):<br>https://marcalyc.redalyc.org/<br>AmeliCA (Open Knowledge for Latin America and the Global South):<br>http://amelica.org/ <br>Redalyc API:<br>http://api.redalyc.org/docs/#/  <br>The intranet for DiamondOA publishers <br>https://ximhai.redalyc.org/ <br>QUALITAAD Quality Self-Assessment For Diamond Open Access Journals https://ximhai.redalyc.org/#/pre-postulationRequest   <br>AURA, the directory of deposit and re-use policies for Diamond OA journals https://aura.amelica.org/   AmeliCA Learning:  Open Science Learning & Training https://learning.amelica.org/   Redalyc Semantic Collections for the Sustainable Development Goals http://sparql.amelica.org/knowledgebase/climateaction/datastore   |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Indexing on Redalyc consists of 2 main steps: Submission and Evaluation. The full process is described here: https://www.redalyc.org/postulacion.oa?q=proceso (available in English here: https://www.redalyc.org/redalyc/documentos/Proceso_de_Postulacion_Redalyc_2020_EN.pdf )<br>Below is a summary of the whole process.<br><br>Submission:<br>Signing of a Goodwill Agreement<br>Completion of the Evaluation form: https://ximhai.redalyc.org/#/pre-postulationRequest <br>Sending of informative files<br><br>Evaluation:<br>Evaluation is based on 3 types of criteria detailed here: https://www.redalyc.org/postulacion.oa?q=criterios <br>The 7 Basic criteria are mandatory, the Evaluation bodies then evaluate the other criteria as a whole<br><br>For the submission to be confirmed, it is mandatory to provide at least one issue formatted according to JATS XML standard, either by using internal processes, or by using the Marcalyc tool developed by Redalyc. |
@@ -46,7 +43,6 @@ Diamond open access journal indexing service. Quality index and full-text reposi
 | Contact information | Contact adress:<br>evaluacion@redalyc.org  <br>editores@redalyc.org  |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Immediate Open Access policy with no embargo<br>No article processing charges (APC)<br>Non-profit scholarly publishing institution<br>Peer review<br>Journal published online for at least a complete year<br>Installments must be published on time according to the publication period |
@@ -56,7 +52,6 @@ Diamond open access journal indexing service. Quality index and full-text reposi
 | Minimum metadata | Header <br>identifier: composed of a prefix followed by a Redalyc's id <br>datestamp: the day since it was available on the web <br>setSpec: the Redalyc's id of journals<br>Metadata <br>Redalyc covers the following DC elements:  <br>Title <br>Creator <br>Subject<br>Contributor<br>Publisher<br>Date<br>Type<br>Format<br>Identifier<br>Relations<br>Rights |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | Nine qualitative criteria will be evaluated by the index as mandatory. 59 criteria are evaluated in total, as can be found here: https://www.redalyc.org/postulacion.oa?q=criterios |
@@ -66,7 +61,6 @@ Diamond open access journal indexing service. Quality index and full-text reposi
 | SEO/UX requirements | Some highly valued criteria are SEO/UX requirements: https://www.redalyc.org/postulacion.oa?q=criterios |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/Redalyc |
