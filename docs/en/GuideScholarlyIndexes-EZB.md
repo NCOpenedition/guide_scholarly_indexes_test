@@ -4,7 +4,6 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | EZB (Electronic Journals Library) |
@@ -21,7 +20,6 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Documentation: technical | Description of EZB Services:<br>https://ezb.ur.de/services/index.phtml?bibid=AAAAA&colors=7&lang=en |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic index |
@@ -37,7 +35,6 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Additional services | Title lists of journal collections: <br>https://ezb.ur.de/services/collections?lang=en <br>Title lists of transformative agreements: <br>https://ezb.ur.de/services/transformative?lang=en    <br>EZB Linking Service (linkresolver): <br>https://ezb.ur.de/services/linkingdienst?lang=en <br>More services: <br>https://ezb.ur.de/services?lang=en  |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Participating EZB institutions collect journals and journal metadata (https://ezb.ur.de/services/becomeuser)<br>or<br>Publishers have to register and complete an online application form (https://ezb.ur.de/db_prop?lang=en) and participating EZB institutions check, if journal is relevant for researchers |
@@ -46,7 +43,6 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Contact information | for data provider: info.ezb@ur.de<br>for user: local contact person (at home institution) |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Scholarly journals |
@@ -56,7 +52,6 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Minimum metadata | Journal title<br>Journal website<br>Price for reading access<br>Subject area<br>Journal type (e.g. fulltext journals, retrospectively digitised) |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | SEO/UX requirements | None |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | None |
