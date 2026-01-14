@@ -4,7 +4,6 @@ Indexes the metadata of all kinds of academically relevant resources - journals,
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | BASE |
@@ -21,7 +20,6 @@ Indexes the metadata of all kinds of academically relevant resources - journals,
 | Documentation: technical | Golden rules for repository managers: https://www.base-search.net/about/en/faq_oai.php |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Automated aggregator with submission |
@@ -37,7 +35,6 @@ Indexes the metadata of all kinds of academically relevant resources - journals,
 | Additional services | BASE API:<br>http://oai.base-search.net/ |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Two options:<br>1. Suggestion of an OAI-PMH repository via an online form on BASE website <br>2. Automated collection of OAI-PMH repository listed in directories |
@@ -46,7 +43,6 @@ Indexes the metadata of all kinds of academically relevant resources - journals,
 | Contact information | https://www.base-search.net/about/en/contact.php (Webform) |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Some contents have to be OA (full texts free of charge for readers, without registration) |
@@ -56,7 +52,6 @@ Indexes the metadata of all kinds of academically relevant resources - journals,
 | Minimum metadata | URL of the publication |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ Indexes the metadata of all kinds of academically relevant resources - journals,
 | SEO/UX requirements | Not communicated |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/BASE_(search_engine)  |
