@@ -4,7 +4,6 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | ERIH PLUS |
@@ -21,7 +20,6 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 | Documentation: technical | Criteria for inclusion: <br>https://kanalregister.hkdir.no/publiseringskanaler/erihplus/about/criteria_for_inclusion  |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic index |
@@ -37,7 +35,6 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 | Additional services | Records show if the journal is indexed in other indexes (e. g. DOAJ, Sherpa-Romeo).<br>ERIH PLUS Record connects with Plan S Journal Checker tool: https://journalcheckertool.org/<br>External support from Dimensions to display metadata about articles: https://www.dimensions.ai/ |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | New journals have to be submitted after creation of a user account. <br>ERIH PLUS will not be evaluating journals submitted by publishers, members of the editorial board or others affiliated with a journal.<br>Application at: https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action  |
@@ -46,7 +43,6 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 | Contact information | https://kanalregister.hkdir.no/publiseringskanaler/erihplus/about/contact |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Two years of publication<br>List of the members of the academic editorial board, and their affiliations<br>English abstract available online<br>SSH subject area <br>Peer review and explicit description of the journal's procedure for independent peer review. (not affiliated with the authors?)<br>Informations about authors affiliations for all scholarly articles for the last two years of publication (fill university names, email or postal address)<br>No more than two thirds of the authors published in the journal are from the same institution (reviewing the last two years of publication) |
@@ -56,7 +52,6 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 | Minimum metadata | Valid ISSN code, confirmed by the International ISSN Portal. <br>Publication language<br>Publisher's country<br>Publishing house (if applicable)<br>Publisher |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | Evaluation of the target audience of the journal  <br>Statement on ethical publishing  <br>Relevant journal for European researchers / research area   <br>Presence of the journal in other indexes<br>Open access status<br>Evaluation of the APC policy |
@@ -66,7 +61,6 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 | SEO/UX requirements | Not communicated |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/ERIH_PLUS |
