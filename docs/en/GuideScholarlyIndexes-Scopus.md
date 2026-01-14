@@ -4,7 +4,6 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | Scopus |
@@ -21,7 +20,6 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | Documentation: technical | https://www.elsevier.com/products/scopus/content/content-policy-and-selection |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic and bibliometric indexes  |
@@ -37,7 +35,6 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | Additional services | Scopus AI (Search tool powered by generative AI):<br>https://www.elsevier.com/products/scopus/scopus-ai <br><br>Scopus Author Profiles (Output and influence of researchers and institutions):<br>https://www.elsevier.com/products/scopus/author-profiles <br><br>Scopus Metrics (CiteScore):<br>https://www.elsevier.com/products/scopus/metrics#3-citescore <br><br>Scopus API and data:<br>https://www.elsevier.com/products/scopus/data#2-scopus-apis |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Application form for journal suggestion to the CSAB (Content Selection and Advisory Board):<br>https://suggestor.step.scopus.com/suggestTitle/step1.cfm and compliance with a set of editorial and technical requirements. |
@@ -46,7 +43,6 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | Contact information | https://service.elsevier.com/app/contact/supporthub/scopus/ |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Journals shall have editorial boards or other governing bodies whose members are recognized experts in the subject areas included within the journal's scope. The full names and affiliations of the journal's editorial board or other governing body shall be provided on the journal's website.<br>Journals shall provide the full names and affiliations of the journal's editors on the journal website as well as contact information for the editorial office, including a full address.<br><br>Be published on a regular basis<br>The periodicity at which a journal publishes shall be clearly indicated.<br>Peer-review content and publicly available description of the peer review process<br>Have a publicly available publication ethics and publication malpractice statement<br>Have content that is relevant for and readable by an international audience, meaning: have English language abstracts and titles<br><br>The policy for copyright shall be clearly stated in the author guidelines and the copyright holder named on all published articles. Likewise, licensing information shall be clearly described in guidelines on the website, and licensing terms shall be indicated on all published articles, both HTML and PDFs. |
@@ -56,7 +52,6 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | Minimum metadata | ISSN (registered with the ISSN international Center)<br>Journal title<br>Abstract<br>Subject (main)<br>Journal's start year |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | No delays or interruptions in the publication schedule<br>Diversity in geographical distribution of editors<br>Diversity in geographical distribution of authors<br>Convincing editorial policy<br>Type of peer review<br>Academic contribution to the field<br>Clarity of abstracts<br>Quality of and conformity to the stated aims and scope of the journal<br>Redability of articles<br>Citedness of journal articles in Scopus<br> English language journal home page available |
@@ -66,7 +61,6 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | SEO/UX requirements | Not communicated |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/Scopus  |
