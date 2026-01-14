@@ -4,7 +4,6 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | DOAJ (Directory of Open Access Journals) |
@@ -21,7 +20,6 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | Documentation: technical | Metadata upload: https://doaj.org/docs/faq/ <br>XML metadata upload: https://doaj.org/docs/xml/ <br>API metadata download: https://doaj.org/api/v3/docs<br>OAI-PMH metadata download: https://doaj.org/docs/oai-pmh/  |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic index |
@@ -37,7 +35,6 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | Additional services | JASPER: <br>https://doaj.org/preservation/ <br>Transparency and best practice:<br>https://doaj.org/apply/transparency/ <br>Think. Check. Submit.:<br>https://thinkchecksubmit.org/ <br>Publishers Learning and Community Exchange:<br>https://theplace.discourse.group/ <br>Open Access Journals Toolkit:<br>https://www.oajournals-toolkit.org/fr  |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Publishers have to register and complete an online application form: https://doaj.org/account/login?redirected=apply  <br>The admission requires compliance with a set of editorial and technical requirements. |
@@ -46,7 +43,6 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | Contact information | helpdesk@doaj.org<br>Contact page: https://doaj.org/contact/ |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Open access journals<br>OA statement<br>Open licensing<br>Free text available with no embargo<br>Any research subject area<br>Publish at least five research articles per year<br>Primary target audience of researchers or practitioners<br>New or flipped journal must demonstrate a publishing history of more than one year or have published at least ten open access research articles. |
@@ -56,7 +52,6 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | Minimum metadata | Journal title<br>ISSN or EISSN<br>Publication date<br>Paper title<br>Full text URL |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | SEO/UX requirements | Journals with own URL and homepage<br>Articles as independent full text document<br>Intrusive advertising<br>Consistency of translation if multilingual website<br>Easily visible information required on the website:<br>Open access policy<br>Aims and scope<br>Editorial board (including institutional affiliations of all members)<br>Instructions for authors<br>Editorial process (peer review)<br>Licensing terms<br>Copyright terms<br>Author charges<br>Contact details |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://fr.wikipedia.org/wiki/Directory_of_Open_Access_Journals |
