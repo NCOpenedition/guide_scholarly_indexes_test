@@ -4,7 +4,6 @@ Crossref is a membership organisation with 19K members from commercial and insti
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | Crossref |
@@ -21,7 +20,6 @@ Crossref is a membership organisation with 19K members from commercial and insti
 | Documentation: technical | https://www.crossref.org/documentation/principles-practices/ |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | PIDs Registration agency |
@@ -37,7 +35,6 @@ Crossref is a membership organisation with 19K members from commercial and insti
 | Additional services | - CrossRef REST API:<br>https://www.crossref.org/documentation/retrieve-metadata/rest-api/ " |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Membership is required to be registered by Crossref. Membership is open to either publishers or service providers.<br>Members can then issue Crossref DOIs for their users. DOI generation can vary from one service to another: automated/on-demand generation, for any content/specific content, etc. |
@@ -46,7 +43,6 @@ Crossref is a membership organisation with 19K members from commercial and insti
 | Contact information | https://support.crossref.org/hc/en-us/requests/new?ticket_form_id=360001642691 (Webform) |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | None |
@@ -56,7 +52,6 @@ Crossref is a membership organisation with 19K members from commercial and insti
 | Minimum metadata | Journal: full title, ISSN or title-level DOI and URL<br>Issue: issue, publication date (year)<br>Article: titles, publication date (year), DOI |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ Crossref is a membership organisation with 19K members from commercial and insti
 | SEO/UX requirements | None |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://fr.wikipedia.org/wiki/Crossref  |
