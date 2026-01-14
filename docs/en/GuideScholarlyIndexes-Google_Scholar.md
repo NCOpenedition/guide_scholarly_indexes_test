@@ -4,7 +4,6 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | Google Scholar |
@@ -21,7 +20,6 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | Documentation: technical | https://scholar.google.com/intl/fr/scholar/inclusion.html |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Fully automated aggregator |
@@ -37,7 +35,6 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | Additional services | Google scholar Metrics (visibility and influence of recent articles in scholarly publications):<br>https://scholar.google.com/intl/fr/scholar/metrics.html <br>Google scholar Profiles (showcase of authors publications): https://scholar.google.com/intl/fr/scholar/citations.html  |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Google Scholar uses automated software, known as "robots" or "crawlers", to fetch files for inclusion in the search results. The journal's website needs to be structured in a way that makes it possible to "crawl" in this manner. Automatic crawlers need to be able to discover and fetch the URLs of all articles, as well as to periodically refresh their content from the journal website. |
@@ -46,7 +43,6 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | Contact information | None |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | None |
@@ -56,7 +52,6 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | Minimum metadata | For PDF publications:<br>    Title (large font)<br>    Authors (below title)<br>    Bibliographic citation of the paper (in first page footer)<br>    Bibliography (separate section)<br>For HTML publications (metadata included in metatags of the HTML file):<br>    Title<br>    Authors<br>    Publication date<br>    Bibliographic citation of the paper<br>    Bibliography |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | SEO/UX requirements | Depending on the number of papers on the website:<br>- if small amount: all articles should be listed on 1 page<br>- if thousands: the website should contain full list of all articles ordered by publication or entry date<br>- if more than 100 000: specific browsing interface with the last updates<br>- if robots.txt is used, the file should be configured to allow GScholar robots crawling |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/Google_Scholar |
