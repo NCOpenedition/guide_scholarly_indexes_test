@@ -4,7 +4,6 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | EBSCOHost |
@@ -21,7 +20,6 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 | Documentation: technical | Content Delivery Guidelines (Journals and eBooks): https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal_Content_Delivery_Guidelines.pdf    <br>Database submission guidelines: <br>https://www.ebsco.com/sites/default/files/acquiadam-assets/Submission_Guidelines_for_EDS_Databases.pdf   |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic index |
@@ -37,7 +35,6 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 | Additional services | EBSCO Academic Search Ultimate: <br>https://www.ebsco.com/products/research-databases/academic-search-ultimate  <br>EBSCOhost (EBSCO eBook Collection, EBSCO Academic Collection, EBSCO eBook Open Access Collection): <br>https://www.ebsco.com/products/ebscohost-research-platform <br>EBSCO Discovery Service: <br>https://www.ebsco.com/products/ebsco-discovery-service  |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Publishers first contact the EBSCO Publishers Operation team to learn about indexing conditions and process at: https://www.ebsco.com/publishers-partnerships/journal-subscription-services/support. <br><br>First indexing request through a webform: https://www.ebsco.com/publishers-partnerships/full-text-licensed-databases-contact-form    |
@@ -46,7 +43,6 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 | Contact information | Publisher support via webform: https://www.ebsco.com/publishers-partnerships/support  <br>or through the EBSCO Connect Service after login |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Not communicated |
@@ -56,7 +52,6 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 | Minimum metadata | ISSN and/or e-ISSN <br>Publication Date <br>Cover Date <br>Issue <br>Article Title  <br>Start Page <br>End Page <br>Author Last Name <br>PDF Link, or PDF file name in the metadata if the file is provided directly |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | Not communicated |
@@ -66,7 +61,6 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 | SEO/UX requirements | Not communicated |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/EBSCO_Information_Services  |
