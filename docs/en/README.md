@@ -1,17 +1,13 @@
-Welcome to the Guide of Scholarly indexes in english, please select your language:
-<div id="language-switcher" align="left">
-  🌐 
-  <span style="cursor:pointer; text-decoration:underline;" data-url="{{ book.basePath }}/fr/">Français</span> | 
-  <span style="cursor:pointer; text-decoration:underline;" data-url="{{ book.basePath }}/en/">English</span>
+<div id="language-switcher">
+  <a data-url="/fr/">Français</a> |
+  <a data-url="/en/">English</a>
 </div>
 
 <script>
-  document.querySelectorAll('#language-switcher [data-url]').forEach(function(el) {
-    el.addEventListener('click', function() {
-      const url = el.getAttribute('data-url');
-      if(url){
-        window.location.href = url;
-      }
+  document.querySelectorAll('#language-switcher a').forEach(el => {
+    el.addEventListener('click', () => {
+      const url = el.dataset.url;
+      window.location.href = url;
     });
   });
 </script>
