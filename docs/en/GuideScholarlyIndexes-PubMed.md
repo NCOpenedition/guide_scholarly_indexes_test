@@ -4,7 +4,6 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | PubMed |
@@ -21,7 +20,6 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | Documentation: technical | PubMed Evaluation: https://ncbi.nlm.nih.gov/pubmed/help/tech-eval <br>Medline submission process: https://www.nlm.nih.gov/medline/medline_how_to_include.html  |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic index |
@@ -37,7 +35,6 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | Additional services | NLM Gateway (Web-based metasearch engine for many resources of the National Library of Medicine (NLM)):<br>https://www.nlm.nih.gov/ <br><br>Bookshelf Free online access to books and documents in life science and healthcare):<br>https://www.ncbi.nlm.nih.gov/books/ <br><br>PubMed Central (free full-text archive of biomedical and life sciences journal literature):<br>https://www.ncbi.nlm.nih.gov/pmc/?db=PMC <br><br>PubChem (Collection of freely accessible chemical information: chemical and physical properties, biological activities, citations and more):<br>https://pubchem.ncbi.nlm.nih.gov/ |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Completion of an application form for journal suggestion after registration on the platform. (https://www.ncbi.nlm.nih.gov/medline/publisherportal/) <br>Journals must successfully pass both a Scientific Quality Review and a Technical and Indexing Requirements Check to be indexed (more informations in the criteria documentation: https://www.nlm.nih.gov/medline/medline_how_to_include.html#scientificquality .) |
@@ -46,7 +43,6 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | Contact information | None |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | The journal must have been published for at least 12 months in the format (print or electronic) that will be used for the review.<br>The journal must have published a minimum of 40 peer-reviewed articles (e.g., original research or review articles, clinical case reports) in final form.<br>The journal must publish abstracts for all peer-reviewed content. At a minimum, all peer-reviewed content published in the past 12 months must contain abstracts.<br>The journal must meet MEDLINE's language guidelines. |
@@ -56,7 +52,6 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | Minimum metadata | Journal Title<br>ISSN<br>Volume<br>Issue<br>Pagination<br>Publication Date<br>Author List<br>Author Affiliation<br>Author Identifiers<br>Investigators/Collaborators<br>Publication Type<br>DOI/ Personally Identifiable Information (PII)<br>Abstract<br>Conflict of Interest Statement<br>ClinicalTrials.gov and other databank identifiers<br>Grants/Funding information<br>PubMed-ID (PMID)/DOI/PII for related articles, e.g., errata, retractions, comments |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | SEO/UX requirements | None |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/PubMed |
