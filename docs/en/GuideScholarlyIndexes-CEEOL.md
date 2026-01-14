@@ -4,7 +4,6 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | CEEOL (Central and Eastern European Online Library) |
@@ -21,7 +20,6 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | Documentation: technical | None |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic index and full text repository |
@@ -37,7 +35,6 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | Additional services | None |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
 | Joining options | Completion of the online application form for journals or e-books and evaluation by the CEEOL's publisher support team. https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal    |
@@ -46,7 +43,6 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | Contact information | For patrons of libraries and end users: user.support@ceeol.com  <br>For subscribing institutions: subscriber.support@ceeol.com <br>For publishers: publisher.support@ceeol.com <br>For technichal help: technical.support@ceeol.com <br>For any other question: info@ceeol.com  |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Geographic focus (Central, Eastern and Southeastern Europe)<br>Subject areas (Social Science and Humanities)<br>English Keywords<br>English Summaries<br>Author's institutional affiliation |
@@ -56,7 +52,6 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | Minimum metadata | Journal Title<br>ISSN |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
@@ -66,7 +61,6 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | SEO/UX requirements | Not communicated |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | https://en.wikipedia.org/wiki/Central_and_Eastern_European_Online_Library |
