@@ -45,9 +45,5 @@ for (const lang of LANGS) {
 }
 
 fs.writeFileSync(OUTPUT, summary);
+
 console.log("SUMMARY.md multilingue généré.");
-
-const content = "# Summary\n\n" + walk(ROOT);
-fs.writeFileSync(OUTPUT, content);
-
-console.log("SUMMARY.md généré avec succès.");
