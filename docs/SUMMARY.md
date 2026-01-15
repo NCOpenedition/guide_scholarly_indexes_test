@@ -32,5 +32,4 @@
   - [BASE](fr/GuideScholarlyIndexes-BASE.md)
   - [Search Matrix](fr/Matrix_Search.md)
   - [Guide de référencement des revues scientifiques](fr/README.md)
-  - [Summary](fr/SUMMARY.md)
 
