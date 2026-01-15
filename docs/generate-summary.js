@@ -54,7 +54,3 @@ LANGS.forEach(({ code, label }) => {
   fs.writeFileSync(summaryPath, summary);
   console.log(`✅ ${summaryPath} généré`);
 });
-
-fs.writeFileSync(OUTPUT, summary);
-
-console.log("SUMMARY.md multilingue généré.");
