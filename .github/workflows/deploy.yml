@@ -22,18 +22,17 @@ jobs:
         run: |
           npm ci || npm install honkit gh-pages --save-dev
           
-      - name: Generate SUMMARY.md
+      - name: Generate language-specific SUMMARYs
         working-directory: ./docs
-        run: |
-          node generate-summary.js
-
-      - name: Commit SUMMARY.md
+        run: node generate-summary.js
+      
+      - name: Commit language-specific SUMMARYs
         working-directory: ./docs
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add SUMMARY.md
-          git commit -m "Auto-update SUMMARY.md" || echo "No changes"
+          git add SUMMARY.en.md SUMMARY.fr.md
+          git commit -m "Auto-update language-specific SUMMARYs" || echo "No changes"
           git push || echo "Nothing to push"
           
       - name: Build the book
