@@ -1,8 +1,11 @@
 const fs = require("fs");
 const path = require("path");
 
-const LANGS = ["en", "fr"];
-const OUTPUT = "SUMMARY.md";
+// Chaque langue avec son dossier et label
+const LANGS = [
+  { code: "en", label: "English" },
+  { code: "fr", label: "Français" },
+];
 
 function getTitle(filePath) {
   const content = fs.readFileSync(filePath, "utf8");
@@ -21,28 +24,36 @@ function walk(dir, level = 1) {
 
     if (fs.statSync(full).isDirectory()) {
       result += walk(full, level + 1);
-    } else if (file.endsWith(".md")) {
+    } else if (file.endsWith(".md") && file !== "SUMMARY.md") {
       const title = getTitle(full);
       const indent = "  ".repeat(level);
-      result += `${indent}- [${title}](${full.replace(/\\/g, "/")})\n`;
+      result += `${indent}- [${title}](${file})\n`;
     }
   }
 
   return result;
 }
 
-let summary = "# Summary\n\n";
+// Générer un SUMMARY.md pour chaque langue
+LANGS.forEach(({ code, label }) => {
+  const folder = path.join(".", code);
+  if (!fs.existsSync(folder)) return;
 
-for (const lang of LANGS) {
-  if (!fs.existsSync(lang)) continue;
+  const summaryPath = path.join(folder, "SUMMARY.md");
+  const introFile = path.join(folder, "intro.md");
 
-  const label = lang === "en" ? "English" : "Français";
-  const intro = path.join(lang, "intro.md");
+  let summary = "# Summary\n\n";
+  if (fs.existsSync(introFile)) {
+    summary += `- [${label}](${path.basename(introFile)})\n`;
+  } else {
+    summary += `- ${label}\n`;
+  }
 
-  summary += `- [${label}](${intro})\n`;
-  summary += walk(lang);
-  summary += "\n";
-}
+  summary += walk(folder);
+
+  fs.writeFileSync(summaryPath, summary);
+  console.log(`✅ ${summaryPath} généré`);
+});
 
 fs.writeFileSync(OUTPUT, summary);
 
