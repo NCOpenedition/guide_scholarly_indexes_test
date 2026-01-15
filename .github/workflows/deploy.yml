@@ -23,7 +23,7 @@ jobs:
           npm ci || npm install honkit gh-pages --save-dev
           
       - name: Generate SUMMARY.md
-        working-directory: ./docs/en
+        working-directory: ./docs
         run: |
           npm install -g honkit-summary
           honkit-summary
