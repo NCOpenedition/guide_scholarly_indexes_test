@@ -40,7 +40,7 @@ LANGS.forEach(({ code, label }) => {
   if (!fs.existsSync(folder)) return;
 
   const summaryPath = path.join(folder, "SUMMARY.md");
-  const introFile = path.join(folder, "intro.md");
+  const introFile = path.join(folder, "README.md");
 
   let summary = "# Summary\n\n";
   if (fs.existsSync(introFile)) {
