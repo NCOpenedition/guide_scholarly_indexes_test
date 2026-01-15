@@ -26,6 +26,15 @@ jobs:
         working-directory: ./docs
         run: |
           node generate-summary.js
+
+      - name: Commit SUMMARY.md
+        working-directory: ./docs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add SUMMARY.md
+          git commit -m "Auto-update SUMMARY.md" || echo "No changes"
+          git push || echo "Nothing to push"
           
       - name: Build the book
         working-directory: ./docs
