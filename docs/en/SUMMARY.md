@@ -1,6 +1,7 @@
 # Summary
 
 - [Guide-English](README.md)
+  - [Template_v4](GuideScholarlyIndexes--Template_v4.md)
   - [BASE](GuideScholarlyIndexes-BASE.md)
   - [CEEOL](GuideScholarlyIndexes-CEEOL.md)
   - [CORE](GuideScholarlyIndexes-CORE.md)
@@ -23,4 +24,3 @@
   - [Scopus](GuideScholarlyIndexes-Scopus.md)
   - [Semantic_Scholar](GuideScholarlyIndexes-Semantic_Scholar.md)
   - [WebOfScience](GuideScholarlyIndexes-WebOfScience.md)
-  - [template_v4](GuideScholarlyIndexes-template_v4.md)
