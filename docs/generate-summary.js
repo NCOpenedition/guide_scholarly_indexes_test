@@ -16,10 +16,6 @@ function getTitle(filePath) {
 function walk(dir, level = 1) {
   let result = "";
   const files = fs.readdirSync(dir).sort();
-
-if (files.includes("README.md")) {
-    files = ["README.md", ...files.filter(f => f !== "README.md")];
-  }
   
   for (const file of files) {
     if (file.startsWith(".")) continue;
