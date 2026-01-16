@@ -1,6 +1,6 @@
 # Summary
 
-- [English](README.md)
+- [Guide-English](README.md)
   - [BASE](GuideScholarlyIndexes-BASE.md)
   - [CEEOL](GuideScholarlyIndexes-CEEOL.md)
   - [CORE](GuideScholarlyIndexes-CORE.md)
