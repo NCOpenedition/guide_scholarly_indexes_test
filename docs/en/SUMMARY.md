@@ -24,4 +24,3 @@
   - [Semantic_Scholar](GuideScholarlyIndexes-Semantic_Scholar.md)
   - [WebOfScience](GuideScholarlyIndexes-WebOfScience.md)
   - [template_v4](GuideScholarlyIndexes-template_v4.md)
-  - [Guide to Scholarly Indexes](README.md)
