@@ -18,7 +18,9 @@ function walk(dir, level = 1) {
   const files = fs.readdirSync(dir).sort();
   
   for (const file of files) {
-    if (file.startsWith(".")) continue;
+    if (file.startsWith(".") ||
+        file === "README.md"
+       ) continue;
 
     const full = path.join(dir, file);
 
