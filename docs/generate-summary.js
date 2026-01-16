@@ -3,8 +3,8 @@ const path = require("path");
 
 // Chaque langue avec son dossier et label
 const LANGS = [
-  { code: "en", label: "English" },
-  { code: "fr", label: "Français" },
+  { code: "en", label: "Guide-English" },
+  { code: "fr", label: "Guide-Français" },
 ];
 
 function getTitle(filePath) {
