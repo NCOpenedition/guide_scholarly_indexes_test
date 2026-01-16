@@ -45,6 +45,8 @@ LANGS.forEach(({ code, label }) => {
   let summary = "# Summary\n\n";
   if (fs.existsSync(introFile)) {
     summary += `- [${label}](${path.basename(introFile)})\n`;
+  } else {
+    summary += `- ${label}\n`;
   } 
 
   summary += walk(folder);
