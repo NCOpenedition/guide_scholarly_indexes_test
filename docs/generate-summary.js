@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-// Chaque langue avec son dossier et label
+// Browse each language folder by name to collects all indexes references
 const LANGS = [
   { code: "en", label: "Guide-English" },
   { code: "fr", label: "Guide-Français" },
@@ -36,7 +36,7 @@ function walk(dir, level = 1) {
   return result;
 }
 
-// Générer un SUMMARY.md pour chaque langue
+// Generation for each langage of it's own SUMMARY with all indexes
 LANGS.forEach(({ code, label }) => {
   const folder = path.join(".", code);
   if (!fs.existsSync(folder)) return;
