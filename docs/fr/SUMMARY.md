@@ -11,3 +11,4 @@
   - [Dimensions](GuideScholarlyIndexes-Dimensions.md)
   - [EBSCOHost](GuideScholarlyIndexes-EBSCOHost.md)
   - [WebOfScience](GuideScholarlyIndexes-WebOfScience.md)
+  - [template_v4](GuideScholarlyIndexes-template_v4.md)
