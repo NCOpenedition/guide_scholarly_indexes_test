@@ -25,5 +25,57 @@ Le guide à été élaboré dans le cadre du projet [CRAFT-OA](https://www.craft
 
 Le European Diamond Capacity Hub (EDCH) et le projet CRAFT-OA visent à soutenir les éditeurs et les auteurs dans le respect des principes du [modèle d'accès diamant](https://diamas.org/diamond-open-access). Le Guide de référencement des revues scientifiques constitue l'un des volets de cette initiative. 
 
+## Que contient le Guide? 
+Le Guide contient des informations détaillées, bien que non exhaustives, sur les principaux index référençant des publications académiques.
 
+Les index listés ici correspondent à ceux qui sont soit les plus utilisés par tout type d’éditeur, soit les plus utiles pour les revues en Diamond Open Access, afin de faciliter une diffusion plus large. Compte tenu de leur importance croissante dans divers processus d’agrégation, les agences d’enregistrement de PID ont également été mentionnées, ne serait-ce qu’à titre d’information importante.
+
+Le terme « index » a été choisi comme terme générique et peut donc correspondre à différents types de services : répertoires, agrégateurs, index thématiques, etc. La documentation doit aider à identifier et à comprendre ces différences. Aux fins de ce catalogue, l’équipe du projet a établi la typologie suivante :
+- Agrégateur automatisé avec soumission (tel que BASE, GoTriple, OpenAIRE)
+- Agrégateur entièrement automatisé (tel que CORE, Gscholar, OpenAlex, Semantic Scholar)
+- Agence d’enregistrement de PID (telle que Crossref, Datacite)
+- Index bibliographiques et bibliométriques sélectifs (tels que Scopus, Web of Science)
+- Index bibliographique sélectif et réservoir de texte intégral (tel que CEEOL)
+- Index bibliographique sélectif (tel que DOAJ, Ebsco, ERIH PLUS, PubMed)
+
+## Comment lire le Guide? 
+Chaque documentation d’index correspond à un fichier spécifique.
+
+Chaque documentation d’index suit la même structure :
+
+- Introduction
+- Description du service
+- Prestations du service
+- Processus d’inclusion
+- Exigences minimales
+- Critères supplémentaires
+- Sources d’information
+
+Les deux premières sections, « Introduction » et « Description du service », donnent une vue concise des aspects globaux de l’index. Elles concernent notamment les aspects administratifs et typologiques.
+
+La section « Prestations du service » explique quelles informations sur les revues sont affichées dans l’index et de quelle manière. Elle décrit la sélection et la gestion des données. Elle indique également, lorsque cela est pertinent, certains services supplémentaires proposés par l’index en plus de l’indexation.
+
+Les sections « Processus d’inclusion », « Exigences minimales » et « Critères supplémentaires » présentent les exigences et critères de sélection de l’index. Bien que certains critères nécessitent un examen plus approfondi de la documentation propre à chaque index, le Guide vise à fournir des informations suffisantes pour évaluer la faisabilité, pour une revue donnée, de satisfaire aux exigences.
+
+La dernière section, « Sources d’information », fournit des liens vers les principales sources utilisées pour élaborer la documentation.
+
+## Existe-t-il d’autres versions du Guide ?
+Tableur sur Zenodo : https://doi.org/10.5281/zenodo.17103786
+
+Version livre Honkit : en préparation.
+
+## Informations complémentaires
+Livrable CRAFT-OA version 1 décrivant la conception du catalogue : fichier Zenodo.
+
+Livrable CRAFT-OA version 2 contenant le cadre de gestion du Guide : fichier Zenodo.
+
+Les liens vers le Guide sont intégrés dans le plugin DISCO OJS développé pour CRAFT-OA par l’Université Masaryk : https://github.com/munipress/disco
+
+## LICENCE et CREDITS
+Ce contenu est disponible sous licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+Le Guide to Scholarly Indexes est géré par [Aix-Marseille Université](https://www.univ-amu.fr/)
+ / [OpenEdition](https://www.openedition.org/?lang=fr)
+
+Le Guide to Scholarly Indexes a été développé collectivement dans le cadre du projet [CRAFT-OA](https://www.craft-oa.eu/). CRAFT-OA est un projet de [OPERAS RI](https://operas-eu.org/), coordonné par [l’Université de Göttingen](https://www.uni-goettingen.de/en/1.html).
 
