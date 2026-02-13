@@ -34,9 +34,9 @@ Le terme « index » a été choisi comme terme générique et peut donc corresp
 - Agrégateur automatisé avec soumission (tel que BASE, GoTriple, OpenAIRE)
 - Agrégateur entièrement automatisé (tel que CORE, Gscholar, OpenAlex, Semantic Scholar)
 - Agence d’enregistrement de PID (telle que Crossref, Datacite)
-- Index bibliographiques et bibliométriques sélectifs (tels que Scopus, Web of Science)
-- Index bibliographique sélectif et réservoir de texte intégral (tel que CEEOL)
-- Index bibliographique sélectif (tel que DOAJ, Ebsco, ERIH PLUS, PubMed)
+- Index bibliographiques et bibliométriques avec sélection (tels que Scopus, Web of Science)
+- Index bibliographique avec sélection et réservoir de texte intégral (tel que CEEOL)
+- Index bibliographique avec sélection (tel que DOAJ, Ebsco, ERIH PLUS, PubMed)
 
 ## Comment lire le Guide? 
 Chaque documentation d’index correspond à un fichier spécifique.
