@@ -69,7 +69,7 @@ Livrable CRAFT-OA version 1 décrivant la conception du catalogue : [fichier Zen
 
 Livrable CRAFT-OA version 2 contenant le cadre de gestion du Guide : [fichier Zenodo](https://zenodo.org/records/15836467).
 
-Les liens vers le Guide sont intégrés dans le plugin DISCO OJS développé pour CRAFT-OA par [l’Université de Masaryk](https://www.muni.cz/en): https://github.com/munipress/disco 
+Les liens vers le Guide sont intégrés dans le plugin DISCO OJS développé pour CRAFT-OA par [l’Université de Masaryk](https://www.muni.cz/en) : https://github.com/munipress/disco 
 
 ## LICENCE et CREDITS
 Ce contenu est disponible sous licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
