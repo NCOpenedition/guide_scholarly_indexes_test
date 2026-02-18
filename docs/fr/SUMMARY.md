@@ -1,6 +1,7 @@
 # Summary
 
 - [Guide-Français](README.md)
+  - [Template_v4](GuideScholarlyIndexes--Template_v4.md)
   - [BASE](GuideScholarlyIndexes-BASE.md)
   - [CEEOL](GuideScholarlyIndexes-CEEOL.md)
   - [CORE](GuideScholarlyIndexes-CORE.md)
@@ -10,5 +11,4 @@
   - [Datacite](GuideScholarlyIndexes-Datacite.md)
   - [Dimensions](GuideScholarlyIndexes-Dimensions.md)
   - [EBSCOHost](GuideScholarlyIndexes-EBSCOHost.md)
-  - [template_v4](GuideScholarlyIndexes-Template_v4.md)
   - [WebOfScience](GuideScholarlyIndexes-WebOfScience.md)
