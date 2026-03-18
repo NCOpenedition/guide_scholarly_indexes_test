@@ -32,7 +32,7 @@ Indexes the metadata of all kinds of academically relevant resources - journals,
 | Data collected | Metadata |
 | Supported standard | Dublin Core |
 | Bibliodiversity support | Multilingual search<br>No apparent limitations in multilingual indexing (or only in latin alphabets?) |
-| Additional services | BASE API:<br>http://oai.base-search.net/ |
+| Additional services | BASE API :<br>http://oai.base-search.net/ |
 
 ## INCLUSION PROCESS
 | Element | Description |
