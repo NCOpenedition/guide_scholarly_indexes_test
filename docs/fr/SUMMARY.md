@@ -11,4 +11,5 @@
   - [Datacite](GuideScholarlyIndexes-Datacite.md)
   - [Dimensions](GuideScholarlyIndexes-Dimensions.md)
   - [EBSCOHost](GuideScholarlyIndexes-EBSCOHost.md)
+  - [Semantic_Scholar](GuideScholarlyIndexes-Semantic_Scholar.md)
   - [WebOfScience](GuideScholarlyIndexes-WebOfScience.md)
